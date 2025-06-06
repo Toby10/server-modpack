@@ -21,7 +21,7 @@
     "minecraft:chicken/visuality:feather",
     "minecraft:villager/visuality:emerald"
   ],
-  "shinyArmorEnabled": false,
+  "shinyArmorEnabled": true,
   "shinyArmorEntries": [
     "minecraft:golden_helmet",
     "minecraft:golden_chestplate",
