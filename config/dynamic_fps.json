@@ -1,0 +1,14 @@
+{
+  "download_natives": false,
+  "states": {
+    "hovered": {
+      "frame_rate_target": 30
+    },
+    "unfocused": {
+      "frame_rate_target": 30
+    },
+    "invisible": {
+      "run_garbage_collector": true
+    }
+  }
+}
