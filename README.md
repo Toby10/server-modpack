@@ -15,7 +15,7 @@ Telegram для связи: https://t.me/antonov_kem
 - Anti Enderman Grief – эндермены не подбирают блоки
 - Armor Stand Poses – смена позы стойки для брони правым кликом (как в Bedrock)
 - Armor Statues – управление стойками для брони (Shift + ПКМ)
-- Auto AFK – команда /afk делает невидимым для мобов
+- Auto AFK – команда /afk делает игрока невидимым для мобов
 - Axiom – мод для креатива, современная замена WorldEdit
 - Block Meter – линейка
 - Bookmark – запоминает открытые страницы в книгах
