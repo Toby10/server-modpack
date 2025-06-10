@@ -140,6 +140,10 @@ key_axiom.keybind.toggle_bulldozer_cap:key.keyboard.unknown
 key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown
 key_axiom.keybind.nudge_forwards:key.keyboard.unknown
 key_axiom.keybind.nudge_backwards:key.keyboard.unknown
+key_key.blockmeter.assign:key.keyboard.b
+key_key.blockmeter.menu:key.keyboard.unknown
+key_key.blockmeter.useItem:key.keyboard.unknown
+key_key.blockmeter.measure:key.mouse.4
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.freecam.toggle:key.keyboard.f4
 key_key.freecam.playerControl:key.keyboard.unknown
