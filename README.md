@@ -1,5 +1,7 @@
 # Модпак для сервера Minecraft 1.21.1 Fabric
 
+![](/server-card.png)
+
 Telegram для связи: https://t.me/antonov_kem
 
 ### Что нового в версии модпака 1.2:
