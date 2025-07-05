@@ -1,64 +1,30 @@
-# Модпак для сервера Minecraft 1.21.1 Fabric
+<div align = center>
+
 ![](/server-card.png)
+</div>
 
-### Актуальная версия: 1.2
+# Модпак для сервера Minecraft
 
-#### Что нового:
+### Что нового:
 - мод на линейку
 - текстур пак для редстоуна
 - уведомление о новых версиях модпака
 - исправления визуальных эффектов
 
-**Скачать:** [Server_Modpack_v1.2.zip](https://github.com/Toby10/server-modpack/releases/download/v1.2/Server_Modpack_v1.2.zip)
-</br></br></br>
+[![Download button]][Download link]
+<br><br>
 
-### Перечень модификаций на стороне сервера:
-- Afk Display – после 2,5 мин ник становится серым
-- Anti Enderman Grief – эндермены не подбирают блоки
-- Armor Stand Poses – смена позы стойки для брони правым кликом (как в Bedrock)
-- Armor Statues – управление стойками для брони (Shift + ПКМ)
-- Auto AFK – команда /afk делает игрока невидимым для мобов
-- Axiom – мод для креатива, современная замена WorldEdit
-- Block Meter – линейка
-- Bookmark – запоминает открытые страницы в книгах
-- Crops Love Rain – ускоренный рост растений под дождём
-- Customizable Elytra – кастомизация элитр
-- Dungeons And Taverns – генерация доп. структур
-- Easy Shulker Boxes – менеджмент шалкеров
-- Horse Trumpet – позвать свою лошадь
-- Horse Expert – узнать статистику лошади
-- Horseman – улучшения езды на лошади
-- Inventory Control Tweaks – менеджмент инвентаря
-- Inventory Management – менеджмент инвентаря
-- Knowlogy – книга с гайдом по игре
-- Leaves Be Gone – листва исчезает быстрее
-- Map art Copyright – подпись автора на картах
-- Multiplayer Sleep – скип ночи одним игроком
-- Right Click Harvest – авто- сбор и посадка семян одним нажатием
-- Silence Mobs – отключение звука конкретных мобов (команда /st с палкой в руке)
-- Skin Restorer – установка скинов на пиратку
-- Skin Shuffle – менеджмент скинов
-- Smarter Farmers – улучшенное поведение жителей
-- Toggleable Item Frames – невидимые рамки (Shift + ПКМ пустой рукой)
-- Voice Chat – голосовой чат
-- Wandering Trades – странствующий торговец продаёт мини-блоки (головы)
-- Отключено правило "doFireTick" – распространение огня
+### Установка:
+1. Качаешь игру версии 1.21.1 Fabric
+2. Качаешь [актуальную версию модпака][Download link]
+3. Распаковываешь с заменой файлы модпака в папку с игрой
+<br><br>
 
-<details><summary>Оптимизация и др. (кликабельно)</summary>
+### Справочная информация:
+- [Список модификаций сервера](server_modlist.md)
+- [Полезные команды](server_commands.md)
 
-<ul>
-  <li>Alternate Current – оптимизация редстоуна</li>
-  <li>AltX – логгирование IP адресов (т.к. сервер пиратский)</li>
-  <li>Clumps – оптимизация сфер опыта</li>
-  <li>Easy Auth – пароль для входа на сервер</li>
-  <li>Krypton – оптимизация сервера</li>
-  <li>Let Me Despawn – разрешает деспаун мобов с предметами</li>
-  <li>Lithium – общая оптимизация</li>
-  <li>ModernFix – общая оптимизация</li>
-  <li>Noisium – оптимизация генерации мира</li>
-  <li>Spark – диагностика сервера</li>
-  <li>TT20 – имитация отсутствия лагов на сервере</li>
-</ul>  
+<!---------------------------------[ Links ]---------------------------------->
 
- </details>
-
+[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.2/Server_Modpack_v1.2.zip
+[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.2-gray?style=for-the-badge&labelColor=37a779
