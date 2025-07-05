@@ -1,23 +1,22 @@
 ## Перечень модификаций на стороне сервера
 
-#### Изменения механик игры
-- Bookmark – запоминает открытые страницы в книгах
+#### Игровые механики
 - Crops Love Rain – ускоренный рост растений под дождём
-- Customizable Elytra – кастомизация элитр
 - Dungeons And Taverns – генерация доп. структур
-- Horse Trumpet – позвать свою лошадь с помощью рога
+- Glowing Torchflower – делает огнецвет светящимся
 - Horse Expert – узнать статистику лошади с помощью монокля
-- Horseman – улучшения езды на лошади
+- Horseman – лютые улучшения езды на лошади
 - Leaves Be Gone – листва исчезает быстрее
-- Right Click Harvest – сбор и посадка семян одним нажатием с помощью мотыги
+- Right Click Harvest – сбор и посадка урожая одним кликом с помощью мотыги
 - Smarter Farmers – улучшенное поведение жителей
 - Wandering Trades – странствующий торговец продаёт мини-блоки (головы)
 
-#### Удобства
+#### Удобство
 - Armor Stand Poses – смена позы стойки для брони правым кликом (как в Bedrock)
 - Armor Statues – управление стойками для брони (Shift + ПКМ)
 - Auto AFK – АФК режим ([через команду /afk](server_commands.md))
 - Block Meter – линейка
+- Bookmark – запоминает открытые страницы в книгах
 - Easy Shulker Boxes – менеджмент шалкеров
 - Inventory Control Tweaks – менеджмент инвентаря
 - Inventory Management – менеджмент инвентаря
@@ -32,10 +31,12 @@
 
 #### Визуальные модификации
 - Afk Display – после 2,5 мин ник игрока становится серым
+- Elytra Trims – кастомизация элитр
 - Map art Copyright – подпись автора на картах ([через команду /map-art](server_commands.md))
 - Skin Restorer – установка скинов на пиратку
 - Skin Shuffle – менеджмент скинов
-- Toggleable Item Frames – невидимые рамки (Shift + ПКМ пустой рукой)
+- Text Formatting Everywhere – позволяет использовать [цветовые коды](https://minecraft.wiki/w/Formatting_codes) везде
+- Toggle Item Frames – невидимые рамки (Shift + ПКМ пустой рукой)
 
 #### Оптимизация и администрирование
 - Alternate Current – оптимизация редстоуна
