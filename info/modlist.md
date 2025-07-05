@@ -2,8 +2,8 @@
 
 #### Игровые механики
 - Crops Love Rain – ускоренный рост растений под дождём
-- Dungeons and Taverns – генерация дополнительных [структур](https://modrinth.com/datapack/dungeons-and-taverns)
-- Elytra Trims – кастомизация элитр
+- Dungeons and Taverns – генерация доп. [структур](https://modrinth.com/datapack/dungeons-and-taverns)
+- Elytra Trims – [кастомизация](https://modrinth.com/mod/elytra-trims) элитр (крыльев)
 - Horse Expert – узнать статистику лошади с помощью [монокля](https://modrinth.com/mod/horse-expert)
 
 #### Удобство
@@ -76,7 +76,6 @@
 - World Play Time – отображает кол-во часов на одиночном мире
 - Xaero's World Map – карта на M
 - Zoomify – приблизить на X
-- 
 
 #### Исправления багов игры
 - Join AutoSprint Mod – бег не сбрасывается при перезаходе на сервер
