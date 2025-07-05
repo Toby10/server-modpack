@@ -1,6 +1,6 @@
 <div align = center>
 
-![](/server-card.png)
+![](info/server_card.png)
 </div>
 
 # Модпак для сервера Minecraft
@@ -21,8 +21,8 @@
 <br><br>
 
 ### Справочная информация:
-- [Список модификаций сервера](server_modlist.md)
-- [Полезные команды](server_commands.md)
+- [Список модификаций сервера](info/server_modlist.md)
+- [Полезные команды](info/server_commands.md)
 
 <!---------------------------------[ Links ]---------------------------------->
 
