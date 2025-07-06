@@ -86,6 +86,7 @@
 - ThreadTweak – исправляет работу с многопоточностью
 
 #### Оптимизация
+- Lithium
 - BadOptimizations
 - Concurrent Chunk Management Engine (C2ME)
 - ImmediatelyFast
@@ -103,7 +104,6 @@
 - Fabric API
 - ForgeConfigAPIPort
 - Iceberg
-- Lithium
 - MRU
 - OctoLib
 - Prism
