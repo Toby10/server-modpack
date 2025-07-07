@@ -131,16 +131,6 @@ globalExecutorParallelism = "default"
 	# (Default: true) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
 
-[vanillaWorldGenOptimizations]
-	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
-	# (may cause incompatibility with other mods)
-	optimizeAquifer = "default"
-	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
-	# This is no longer included in lithium-fabric 
-	# (may cause incompatibility with other mods)
-	# 
-	useEndBiomeCache = "default"
-
 [chunkSystem]
 	# (Default: true) Whether to enable async serialization
 	# 
@@ -160,3 +150,13 @@ globalExecutorParallelism = "default"
 	# in a single world instance
 	# 
 	allowPOIUnloading = "default"
+
+[vanillaWorldGenOptimizations]
+	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
+	# (may cause incompatibility with other mods)
+	optimizeAquifer = "default"
+	# (Default: true) Whether to enable End Biome Cache to accelerate The End worldgen 
+	# This is no longer included in lithium-fabric 
+	# (may cause incompatibility with other mods)
+	# 
+	useEndBiomeCache = "default"

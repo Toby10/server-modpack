@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","betterbeds:fancyconnectedbeds","continuity:default","continuity:glass_pane_culling_fix","file/Recolourful Containers 1.1.1 (1.19.4-1.21.x).zip","file/Simple Grass Flowers v1.9.2.zip","file/Spawned_Eggs_1.16-1.21.4_r1.zip","file/enchant icons 1.21 v1.3.zip","file/FreshAnimations_v1.9.2.zip","file/Fancy Crops v1.0 f5-34.zip","file/EvenBetterEnchants_v2_r1.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/AL\u0027s Scorpions  Crabs.zip","file/qrafty\u0027s-capitalized-font.zip","file/VanillaTweaks_1.21.x_YT.zip","file/wandering trades v1.7.9 (MC 1.21-1.21.4).zip","moonlight:mods_dynamic_assets","file/New Chests.zip","knowlogy:9999_minecraft","knowlogy:tutorial","knowlogy:7899_tricky_trials"]
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","betterbeds:fancyconnectedbeds","continuity:default","file/Recolourful Containers 2.1.1 (1.19.4+).zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.9.2.zip","file/Spawned_Eggs_1.16-1.21.4_r1.zip","file/enchant icons 1.21 v1.3.zip","file/FreshAnimations_v1.9.2.zip","file/Fancy Crops v1.0 f5-34.zip","file/EvenBetterEnchants_v2_r1.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/AL\u0027s Scorpions  Crabs.zip","file/qrafty\u0027s-capitalized-font.zip","file/VanillaTweaks_1.21.x_YT.zip","file/wandering trades v1.7.9 (MC 1.21-1.21.4).zip","moonlight:mods_dynamic_assets","file/New Chests.zip","knowlogy:9999_minecraft","knowlogy:tutorial","knowlogy:7899_tricky_trials"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
@@ -163,24 +163,6 @@ key_key.lighty.toggle:key.keyboard.f8
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.musicnotification.open_screen:key.keyboard.j
 key_key.optigui.inspect:key.keyboard.f12
-key_key.replaymod.playeroverview:key.keyboard.unknown
-key_key.replaymod.lighting:key.keyboard.unknown
-key_key.replaymod.quickmode:key.keyboard.unknown
-key_key.replaymod.settings:key.keyboard.unknown
-key_key.replaymod.marker:key.keyboard.unknown
-key_key.replaymod.thumbnail:key.keyboard.unknown
-key_key.replaymod.playpause:key.keyboard.unknown
-key_key.replaymod.rollclockwise:key.keyboard.unknown
-key_key.replaymod.rollcounterclockwise:key.keyboard.unknown
-key_key.replaymod.resettilt:key.keyboard.unknown
-key_key.replaymod.pathpreview:key.keyboard.unknown
-key_key.replaymod.keyframerepository:key.keyboard.unknown
-key_key.replaymod.clearkeyframes:key.keyboard.unknown
-key_key.replaymod.synctimeline:key.keyboard.unknown
-key_key.replaymod.positionkeyframe:key.keyboard.unknown
-key_key.replaymod.positiononlykeyframe:key.keyboard.unknown
-key_key.replaymod.timekeyframe:key.keyboard.unknown
-key_key.replaymod.bothkeyframes:key.keyboard.unknown
 key_key.stickykeys.stick_keys:key.keyboard.unknown
 key_tcdcommons.key.refresh_current_screen:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
