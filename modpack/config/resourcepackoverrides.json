@@ -1,0 +1,82 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+	"fabric",
+	"betterbeds:fancyconnectedbeds",
+	"continuity:default",
+	"moonlight:mods_dynamic_assets",
+	"minecraft:supporteatinganimation",
+	"file/SodiumTranslations.zip",
+	"knowlogy:9999_minecraft",
+	"knowlogy:tutorial",
+	"knowlogy:7899_tricky_trials",
+	"continuity:glass_pane_culling_fix",
+	"file/Simple Grass Flowers v1.9.5.zip",
+	"file/Spawned_Eggs_1.16-1.21.4_r1.zip",
+	"file/enchant icons 1.21 v1.3.zip",
+	"file/FreshAnimations_v1.9.2.zip",
+	"file/JustExpressions_v1.1.zip",
+	"file/Fancy Crops v1.0 f5-34.zip",
+	"file/EvenBetterEnchants_v2_r1.zip",
+	"file/Better+Lanterns+v1.2(mc-1.21).zip",
+	"file/qrafty\u0027s-capitalized-font.zip",
+	"file/wandering trades v1.7.9 (MC 1.21-1.21.4).zip",
+	"file/New Chests.zip",
+	"file/Recolourful Containers 2.1.1 (1.19.4+).zip",
+	"file/FA+Spiders-v1.1.zip",
+	"file/FA+Details-v1.2.zip",
+	"file/FA+Objects-v1.1.1.zip",
+	"file/FA+Quivers-v1.1.1.zip",
+	"file/VanillaTweaks_1.21.x_YT.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "file/RedstoneTweaks_1.21.x.zip": {
+      "title": "\"Redstone помощник\"",
+      "description": "\"Индикаторы для редстоун блоков\""
+    },
+	"file/FA+Creepers-v1.2.zip": {
+		"title": "\"Animated Creepers\""
+	},
+    "server": {
+      "default_position": "BOTTOM",
+      "force_compatible": true,
+      "fixed_position": false
+    },
+    "1": [
+		"vanilla",
+		"fabric",
+		"betterbeds:fancyconnectedbeds",
+		"continuity:default",
+		"moonlight:mods_dynamic_assets",
+		"minecraft:supporteatinganimation",
+		"file/SodiumTranslations.zip",
+		"knowlogy:9999_minecraft",
+		"knowlogy:tutorial",
+		"knowlogy:7899_tricky_trials",
+		"continuity:glass_pane_culling_fix",
+		"file/VanillaTweaks_1.21.x_YT.zip",
+		"file/FreshAnimations_v1.9.2.zip",
+		"file/JustExpressions_v1.1.zip"
+    ],
+    "$$1": {
+      "hidden": true,
+      "required": true
+    },
+	"3": [
+		"knowlogy:7897_bundles_of_bravery",
+		"elytratrims:legacy",
+		"high_contrast",
+		"programmer_art",
+		"classic_icons",
+		"white_icons"
+    ],
+    "$$3": {
+      "hidden": true,
+      "required": false
+    }
+  }
+}
