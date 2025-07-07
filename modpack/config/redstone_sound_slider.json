@@ -1,18 +1,18 @@
 {
   "version": 1,
   "sources": {
-    "PISTON": true,
-    "MINECART": true,
-    "BUTTONS": false,
-    "PRESSURE_PLATES": true,
     "FENCE_GATES": false,
+    "MINECART": true,
+    "COPPER_BULB": true,
+    "REDSTONE_TORCH": true,
+    "CRAFTER": true,
+    "LEVER": false,
+    "PISTON": true,
+    "PRESSURE_PLATES": true,
+    "DISPENSER": true,
     "TRIPWIRE_HOOK": true,
     "DOORS": false,
     "TRAPDOORS": true,
-    "COPPER_BULB": true,
-    "CRAFTER": true,
-    "LEVER": false,
-    "DISPENSER": true,
-    "REDSTONE_TORCH": true
+    "BUTTONS": false
   }
 }
