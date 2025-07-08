@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","betterbeds:fancyconnectedbeds","continuity:default","file/Recolourful Containers 2.1.1 (1.19.4+).zip","file/Recolourful Containers DARK 2.1.1 (1.19.4+).zip","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.9.2.zip","file/Spawned_Eggs_1.16-1.21.4_r1.zip","file/enchant icons 1.21 v1.3.zip","file/FreshAnimations_v1.9.2.zip","file/Fancy Crops v1.0 f5-34.zip","file/EvenBetterEnchants_v2_r1.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/AL\u0027s Scorpions  Crabs.zip","file/qrafty\u0027s-capitalized-font.zip","file/VanillaTweaks_1.21.x_YT.zip","file/wandering trades v1.7.9 (MC 1.21-1.21.4).zip","moonlight:mods_dynamic_assets","file/New Chests.zip","knowlogy:9999_minecraft","knowlogy:tutorial","knowlogy:7899_tricky_trials","file/SodiumTranslations.zip","inventorymanagement:inventorymanagement-dark-ui","musicnotification:dark_mode"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
