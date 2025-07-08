@@ -98,7 +98,6 @@
 - FerriteCore – ОЗУ
 - ModernFix
 - Noisium – ускорение генерации мира
-- Nvidium – оптимизация под видеокарты Nvidia
 
 #### Технические библиотеки
 - Fabric API
