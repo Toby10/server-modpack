@@ -5,11 +5,15 @@
 
 # Модпак для сервера Minecraft
 
-### Что нового:
-- мод на линейку
-- текстур пак для редстоуна
-- уведомление о новых версиях модпака
-- исправления визуальных эффектов
+**Что нового:**
+- Перешёл на Fabric Loader 0.16.14
+- Обновил все моды, заменил на современные альтернативы
+- Добавлено множество визуальных новшеств, в частности, улучшена графика без шейдеров (переключается на "K")
+- Главное меню и меню паузы кастомизированы для удобства использования
+- Чат стал более удобным
+- Добавлен менеджер скриншотов
+- Добавлены команды /sit и /crawl (сесть и лечь)
+- Добавлены разделы на Git с [перечнем](#Справочная-информация) модификаций
 
 [![Download button]][Download link]
 <br><br>
@@ -27,5 +31,5 @@
 
 <!---------------------------------[ Links ]---------------------------------->
 
-[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.2/Server_Modpack_v1.2.zip
-[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.2-gray?style=for-the-badge&labelColor=37a779
+[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.3/Server_Modpack_v1.3.zip
+[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.3-gray?style=for-the-badge&labelColor=37a779
