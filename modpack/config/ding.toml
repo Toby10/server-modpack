@@ -2,7 +2,7 @@
 [load]
 
 	# Play sound when the game loads.
-	playOnLoad = false
+	playOnLoad = true
 
 	# Resource Location based name of the sound file to play when Minecraft finishes loading.
 	# EG: "ui.button.click" or "entity.experience_orb.pickup"
