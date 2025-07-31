@@ -1,2 +1,2 @@
-1.3
+1.4
 https://raw.githubusercontent.com/Toby10/server-modpack/refs/heads/master/info/version.txt
