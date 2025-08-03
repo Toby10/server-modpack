@@ -132,7 +132,7 @@ element {
 
 element {
   interactable = true
-  source = Minecraft 1.21.1 Modpack v1.3
+  source = Minecraft 1.21.1 Modpack v{"placeholder":"json","values":{"source":"config/bcc.json","json_path":"$.modpackVersion"}}
   source_mode = direct
   shadow = true
   scale = 1.0
