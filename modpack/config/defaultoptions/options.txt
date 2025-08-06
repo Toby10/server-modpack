@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","betterbeds:fancyconnectedbeds","continuity:default","moonlight:mods_dynamic_assets","minecraft:supporteatinganimation","file/SodiumTranslations.zip","knowlogy:tutorial","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.9.5.zip","file/Spawned_Eggs_1.16-1.21.4_r1.zip","file/enchant icons 1.21 v1.3.zip","file/FreshAnimations_v1.9.2.zip","file/JustExpressions_v1.1.zip","file/Fancy Crops v1.2.zip","file/EvenBetterEnchants_v2_r1.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","file/qrafty\u0027s-capitalized-font.zip","file/wandering trades v1.7.9 (MC 1.21-1.21.4).zip","file/New Chests.zip","file/Recolourful Containers 2.1.1 (1.19.4+).zip","file/FA+Spiders-v1.1.zip","file/FA+Objects-v1.1.1.zip","file/FA+Quivers-v1.1.1.zip","perfectparity:perfectparity_x_freshanimations","file/VanillaTweaks_1.21.x_YT.zip","file/Bedrock water colors V1.1.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
