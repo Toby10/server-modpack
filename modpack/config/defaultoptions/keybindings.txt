@@ -137,7 +137,7 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown:
 key_gui.xaero_toggle_tracked_players:key.keyboard.unknown:
 key_gui.xaero_toggle_pac_chunk_claims:key.keyboard.unknown:
 key_zoomify.key.zoom:key.keyboard.c:
-key_zoomify.key.zoom.secondary:key.keyboard.f6:
+key_zoomify.key.zoom.secondary:key.keyboard.unknown:
 key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
