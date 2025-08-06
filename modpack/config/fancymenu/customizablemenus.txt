@@ -9,3 +9,6 @@ net.minecraft.class_442 {
 net.kosmo.music.impl.gui.JukeboxScreen {
 }
 
+net.minecraft.class_408 {
+}
+
