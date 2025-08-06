@@ -1,5 +1,7 @@
 ## Перечень модификаций на стороне клиента
 
+### $${\color{red}Перечень \space устарел. \space Смотрите \space список \space модов \space вручную}$$
+
 #### Игровые механики
 - Crops Love Rain – ускоренный рост растений под дождём
 - Dungeons and Taverns – генерация доп. [структур](https://modrinth.com/datapack/dungeons-and-taverns)
