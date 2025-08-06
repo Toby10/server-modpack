@@ -52,7 +52,7 @@ key_axiom.keybind.nudge_with_scroll:key.keyboard.unknown:
 key_axiom.keybind.nudge_forwards:key.keyboard.unknown:
 key_axiom.keybind.nudge_backwards:key.keyboard.unknown:
 key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown:
-key_key.blockmeter.assign:key.keyboard.b:
+key_key.blockmeter.assign:key.keyboard.n:
 key_key.blockmeter.menu:key.keyboard.unknown:
 key_key.blockmeter.useItem:key.keyboard.unknown:
 key_key.blockmeter.measure:key.keyboard.unknown:
@@ -121,7 +121,7 @@ key_key.variantswap.swap:key.keyboard.z:
 key_key.push_to_talk:key.keyboard.unknown:
 key_key.whisper:key.keyboard.unknown:
 key_key.mute_microphone:key.keyboard.y:
-key_key.disable_voice_chat:key.keyboard.n:
+key_key.disable_voice_chat:key.keyboard.unknown:
 key_key.hide_icons:key.keyboard.h:
 key_key.voice_chat:key.keyboard.v:
 key_key.voice_chat_settings:key.keyboard.unknown:
@@ -142,5 +142,5 @@ key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
 key_iris.keybind.wireframe:key.keyboard.unknown:
-key_key.emotecraft.fastchoose:key.keyboard.x
+key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
