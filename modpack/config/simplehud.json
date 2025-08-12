@@ -1,0 +1,38 @@
+{
+  "generalSettings": {
+    "hideOnF1": true,
+    "backgroundEnabled": true,
+    "textColor": 16185078,
+    "textScale": 1.0
+  },
+  "fpsSettings": {
+    "fpsEnabled": true,
+    "fpsString": "{FPS}ғᴘs",
+    "fpsX": 7,
+    "fpsY": 5
+  },
+  "pingSettings": {
+    "pingEnabled": false,
+    "pingString": "{PING}ᴍs",
+    "pingX": 7,
+    "pingY": 18
+  },
+  "locSettings": {
+    "locEnabled": false,
+    "locString": "📌 {X}, {Y}, {Z} ({D})",
+    "locX": 7,
+    "locY": 42
+  },
+  "timeSettings": {
+    "timeEnabled": false,
+    "timeString": "⌚ {H}:{M}:{S}",
+    "timeX": 7,
+    "timeY": 64
+  },
+  "dateSettings": {
+    "dateEnabled": false,
+    "dateString": "📆 {D}.{M}.{Y}",
+    "dateX": 7,
+    "dateY": 77
+  }
+}
