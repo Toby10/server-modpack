@@ -15,3 +15,6 @@ net.minecraft.class_442 {
 io.wispforest.accessories.client.gui.AccessoriesScreen {
 }
 
+net.minecraft.class_491 {
+}
+
