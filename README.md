@@ -6,16 +6,14 @@
 # Модпак для сервера Minecraft
 
 #### Что нового:
-- Новые анимации и [эмоции](https://modrinth.com/plugin/emotecraft)
-- Музыкальные инструменты!
-- Завершён перенос функций из новых версий: 1.21.2 – 1.21.6
-- Обновлена [механика](https://modrinth.com/mod/superb-steeds) езды на лошади
-- В книжных полках можно хранить зачарованные книги
-- Улучшенные [механики](https://modrinth.com/mod/better-tridents) трезубца
-- Параллельное измерение с креативом на сервере
-- Статистика исследованных предметов в виде книги
-- Исправления багов/недочётов игры
-- Улучшения интерфейса, перевод на русский
+- Кастомизация персонажа: [плащи](https://modrinth.com/mod/craftablecapes/gallery), [шляпы](https://modrinth.com/mod/simple-hats) и [др](https://modrinth.com/mod/immersive-lanterns).
+- Новые музыкальные инструменты
+- Новые [вариации](https://modrinth.com/mod/some-more-blocks) ванильных блоков
+- Новый блок: "Лесопилка" и профессия жителя "Плотник"
+- Новый предмет: "Природный компас", для поиска биомов
+- Новый движок рендера скинов
+- Обновлённый функционал контейнеров
+- Улучшения интерфейса и прочее
 
 [![Download button]][Download link]
 <br><br>
@@ -71,5 +69,5 @@
 
 <!---------------------------------[ Links ]---------------------------------->
 
-[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.5/Server_Modpack_v1.5.zip
-[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.5-gray?style=for-the-badge&labelColor=37a779
+[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.6/Server_Modpack_v1.6.zip
+[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.6-gray?style=for-the-badge&labelColor=37a779
