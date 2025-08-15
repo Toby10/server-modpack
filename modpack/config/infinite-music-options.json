@@ -1,8 +1,8 @@
 {
   "main_menu_music": {
     "enabled": true,
-    "delay": 5,
-    "randomness": 5
+    "delay": 15,
+    "randomness": 15
   },
   "gameplay_music": {
     "enabled": true,
