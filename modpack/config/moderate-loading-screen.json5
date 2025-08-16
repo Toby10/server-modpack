@@ -1,18 +1,21 @@
 {
 	"backgroundColor": "#FF161616",
-	"logoOpacity": 100,
-	"barOpacity": 100,
+	"logoOpacity": 80,
+	"barOpacity": 80,
 	"showTater": true,
 	"modsOnlyOnce": true,
 	"hideLibraries": true,
 	"modIdBlacklist": [
 		"fabric-*",
-		"fabric"
+		"fabric",
+		"simple-modpack-update-checker",
+		"lavender-md",
+		"thorough-keybindings"
 	],
 	"iconSize": 48,
-	"screenType": "SNOWFLAKES",
+	"screenType": "STACKING",
 	"orientation": "DOWN",
 	"stackingConfig": {
-		"cycleSeconds": 20
+		"cycleSeconds": 10
 	}
 }
