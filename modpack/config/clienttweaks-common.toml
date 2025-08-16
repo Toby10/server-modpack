@@ -97,7 +97,7 @@ noOffhandTorchWithFood = true
 noOffhandUseWithFood = true
 
 # This option makes the recipe book not shift the inventory when opened. Works best with smaller GUI scales / bigger resolutions.
-noRecipeBookShifting = true
+noRecipeBookShifting = false
 
 # This restricts torches to be placed from the offhand only when you're holding a tool in your main hand.
 offhandTorchWithToolOnly = false
