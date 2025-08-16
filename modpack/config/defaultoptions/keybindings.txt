@@ -131,4 +131,5 @@ key_zoomify.key.zoom.secondary:key.keyboard.unknown:
 key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
+key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown:
 key_iris.keybind.wireframe:key.keyboard.unknown
