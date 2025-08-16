@@ -30,27 +30,24 @@
 <br><br>
 
 ### Установка.
-Выбери подходящий для тебя вариант:
-- Используй лаунчер с поддержкой модпаков. Рекомендую [SKLauncher](https://skmedix.pl/binaries/skl/3.2.12/SKlauncher-3.2.12.jar) (скачивай через VPN). 
-- Если у тебя стоит TLauncher (не рекомендую), установи модпак [вручную](#ручная-установка).
-- Если у тебя официальный аккаунт Mojang, используй [Modrinth App](https://modrinth.com/app).
+Выбери подходящий тебе вариант:
+- **TLauncher**: установи модпак [вручную](#ручная-установка).
+- **Другой лаунчер**: импортируй [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack) в новую инстанцию.
+- **Официальный клиент Mojang**: используй [Modrinth App](https://modrinth.com/app) и просто открой [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack).
 <br><br>
 
-### Установка через лаунчер.
-1. Скачиваешь [модпак][Download link] последней версии
-2. Импортируешь его в новую инстанцию
-3. Запускаешь игру и ждёшь установки
-<details><summary>Скриншот в SKLauncher (кликабельно)</summary>
-<br>
-    
-![](info/images/guide_1.png)
-</details>
-<br>
-
 ### Ручная установка.
-1. Качаешь игру версии 1.21.1 Fabric 0.16.14+
-2. Качаешь [полный архив](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server.Modpack.1.6.1.zip) последней версии
-3. Распаковываешь с заменой содержимое архива в папку с игрой
+1. Качаешь [полный архив][Download link] последней версии.
+2. Создаёшь модпак по следующей инструкции:
+> <details><summary>Инструкция для TLauncher (кликабельно)</summary>
+> <br>
+>     
+> ![](info/images/guide_1.png)
+> </details>
+
+3. (9) Переходишь по пути `.minecraft/versions/<имя_модпака>/`
+4. Распаковываешь архив модпака в эту папку.
+5. (10) Нажимаешь "Войти в игру", ждёшь установки и играешь.
 <br><br>
 
 ### Обновление.
@@ -58,7 +55,7 @@
     - файл options.txt
     - папку /config/voicechat
     - другие настройки модов, если ты что-то менял
-    - настройки твоих шейдеров по пути /shaderpacks/<имя_шейдера>.zip.txt
+    - настройки шейдеров по пути `/shaderpacks/<имя_шейдера>.zip.txt`, если менял
     - твои добавленные ресурс-паки из /resourcepacks
 
 2. Перед обновлением следует **удалить**: 
@@ -74,7 +71,7 @@
 <br><br>
 
 ### Идеология модпака.
-Сделать игру более комфортной и расширить существующий геймплей без существенных модификаций
+Сделать игру более комфортной и расширить существующий геймплей без существенных модификаций.
 
 #### Основные аспекты игры, на которые идёт упор в модпаке:
 - Интерфейс, UX/UI дизайн
@@ -87,5 +84,5 @@
 
 <!---------------------------------[ Links ]---------------------------------->
 
-[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server.Modpack.1.6.1.mrpack
-[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%BC%D0%BE%D0%B4%D0%BF%D0%B0%D0%BA-v1.6.1-gray?style=for-the-badge&labelColor=37a779
+[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.zip
+[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%B0%D1%80%D1%85%D0%B8%D0%B2-v1.6.1-gray?style=for-the-badge&labelColor=37a779
