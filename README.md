@@ -31,9 +31,9 @@
 
 ### Установка.
 Выбери подходящий тебе вариант:
-- TLauncher: установи модпак [вручную](#ручная-установка).
-- Другой лаунчер: импортируй [сборку](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack) в новую инстанцию.
-- Официальный клиент Mojang: используй [Modrinth App](https://modrinth.com/app) и просто открой [файл модпака](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack).
+- **TLauncher**: установи модпак [вручную](#ручная-установка).
+- **Другой лаунчер**: импортируй [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack) в новую инстанцию.
+- **Официальный клиент Mojang**: используй [Modrinth App](https://modrinth.com/app) и просто открой [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack).
 <br><br>
 
 ### Ручная установка.
