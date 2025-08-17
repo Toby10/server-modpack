@@ -5,7 +5,9 @@
     "ROTATE_ALBUM_COVER": true,
     "DISABLE_TOAST_SOUND": "MUTE_SELF",
     "IGNORE_SOUND_EVENT": [
-      "minecraft:block.note_block.*"
+      "minecraft:block.note_block.*",
+      "minecraft:music.menu",
+      "minecraft:item.goat_horn.*"
     ]
   },
   "JUKEBOX_CONFIG": {
