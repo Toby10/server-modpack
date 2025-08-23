@@ -120,6 +120,9 @@
 		"inventorymanagement:inventorymanagement-dark-ui",
 		"musicnotification:dark_mode",
 		"black_icons",
+		"itemswapper:classic",
+		"itemswapper:default",
+		"item_interactions_mod:example_gui_particles",
 		"white_icons"
     ],
     "$$3": {
