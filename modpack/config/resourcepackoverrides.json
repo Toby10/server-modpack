@@ -29,13 +29,15 @@
 	"file/New Chests.zip",
 	"file/qrafty's-capitalized-font.zip",
 	"file/\u00A7a\u00A7lVocal Villagers \u00A7r\u00A771.2.zip",
-	"file/FreshAnimations_v1.9.4.zip",
+	"file/FreshAnimations_v1.10.zip",
 	"perfectparity:perfectparity_x_freshanimations",
 	"file/JustExpressions_v1.1.zip",
 	"file/Recolourful Containers 2.1.1 (1.19.4+).zip",
 	"file/Better Map Items 1.20.zip",
 	"file/\u00A7eExtended_Illumina_1.21.4.zip",
-	"file/Stefan's Armors & Items.zip",
+	"seamless:default_seamless",
+	"file/Default_Loading_Background.zip",
+	"subtle_effects:biome_color_water_particles",
 	"file/Spawned_Eggs_1.16-1.21.4_r1.zip",
 	"file/visual_armor_trims_v2.1_1.21.X.zip",
 	"file/enchant icons 1.21 v1.3.zip",
@@ -53,27 +55,19 @@
 	"file/FA Quivers-v1.1.1.zip",
 	"file/FA Spiders-v1.1.zip",
 	"file/Brewing Guide (Vanilla Tweaks).zip",
-	"subtle_effects:biome_color_water_particles",
+	"file/Overlay’s\u00A77.zip",
 	"file/Hytale Menu Music\u00A77.zip",
-	"file/\u00A73Fresh \u00A7bFlower Pots.zip",
-	"file/Immersive Celestials.zip",
-	"file/FancyFast Bushy Leaves.zip"
+	"file/\u00A73Fresh \u00A7bFlower Pots.zip"
   ],
   "default_overrides": {
     "force_compatible": true
   },
   "pack_overrides": {
-    "file/RedstoneTweaks_1.21.x.zip": {
-      "title": "\"Redstone помощник\"",
-      "description": "\"Индикаторы для редстоун блоков\""
-    },
-	"file/FA+Creepers-v1.2.zip": {
-		"title": "\"Animated Creepers\""
-	},
     "server": {
-      "default_position": "BOTTOM",
+      "default_position": "TOP",
       "force_compatible": true,
-      "fixed_position": false
+      "fixed_position": true,
+	  "hidden": true
     },
     "1": [
 		"vanilla",
@@ -104,13 +98,15 @@
 		"file/New Chests.zip",
 		"file/qrafty's-capitalized-font.zip",
 		"file/\u00A7a\u00A7lVocal Villagers \u00A7r\u00A771.2.zip",
-		"file/FreshAnimations_v1.9.4.zip",
+		"file/FreshAnimations_v1.10.zip",
 		"perfectparity:perfectparity_x_freshanimations",
 		"file/JustExpressions_v1.1.zip",
 		"file/Recolourful Containers 2.1.1 (1.19.4+).zip",
 		"file/Better Map Items 1.20.zip",
 		"file/\u00A7eExtended_Illumina_1.21.4.zip",
-		"file/Stefan's Armors & Items.zip"
+		"seamless:default_seamless",
+		"file/Default_Loading_Background.zip",
+		"subtle_effects:biome_color_water_particles"
     ],
     "$$1": {
       "hidden": true,
@@ -121,6 +117,9 @@
 		"high_contrast",
 		"programmer_art",
 		"classic_icons",
+		"inventorymanagement:inventorymanagement-dark-ui",
+		"musicnotification:dark_mode",
+		"black_icons",
 		"white_icons"
     ],
     "$$3": {
