@@ -1,0 +1,9 @@
+{
+  "renderShulkerBoxOverlay": true,
+  "renderBeeOverlay": true,
+  "renderEnchantmentOverlay": false,
+  "renderFireworkOverlay": true,
+  "renderOminousBottleOverlay": true,
+  "renderWaxedIconOverlay": true,
+  "renderPotionOverlay": true
+}

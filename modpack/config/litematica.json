@@ -6,6 +6,7 @@
     "schematicRebuildBreakPlaceOverlayColor": "#4C33CC33",
     "schematicRebuildBreakExceptPlaceOverlayColor": "#4CF03030",
     "schematicRebuildReplaceOverlayColor": "#4CF0A010",
+    "schematicOverlayColorDiffBlock": "#30F8D650",
     "schematicOverlayColorExtra": "#4CFF4CE6",
     "schematicOverlayColorMissing": "#2C33B3E6",
     "schematicOverlayColorWrongBlock": "#4CFF3333",
@@ -29,11 +30,20 @@
     "easyPlaceProtocolVersion": "auto",
     "easyPlaceSwingHand": true,
     "easyPlaceVanillaReach": false,
-    "entityDataSync": true,
+    "enableDifferentBlocks": false,
+    "entityDataSync": {
+      "enabled": true,
+      "hotkey": {
+        "keys": ""
+      }
+    },
     "entityDataSyncBackup": true,
+    "entityDataSyncCacheTimeout": 0.75,
+    "entityDataSyncLoadNbt": true,
     "executeRequireHoldingTool": true,
     "fixChestMirror": true,
     "fixRailRotation": true,
+    "fixStairsMirror": true,
     "generateLowercaseNames": false,
     "highlightBlockInInventory": false,
     "itemUsePacketCheckBypass": true,
@@ -64,6 +74,7 @@
     "toolItemEnabled": true,
     "unhideSchematicVCS": false,
     "pasteReplaceBehavior": "all",
+    "schematicVcsDeleteMode": "matching_block",
     "selectionCornersMode": "corners",
     "commandFillMaxVolume": 32768,
     "commandLimitPerTick": 24,
@@ -91,11 +102,14 @@
     "easyPlaceUseKey": {
       "keys": "BUTTON_2"
     },
+    "easyPlaceFirst": {
+      "keys": ""
+    },
     "easyPlaceToggle": {
       "keys": ""
     },
     "executeOperation": {
-      "keys": "M,P"
+      "keys": ""
     },
     "invertGhostBlockRenderState": {
       "keys": ""
@@ -134,7 +148,7 @@
       "keys": ""
     },
     "openGuiMainMenu": {
-      "keys": "L"
+      "keys": ""
     },
     "openGuiMaterialList": {
       "keys": "M,L"
@@ -208,6 +222,9 @@
     "schematicPlacementMirror": {
       "keys": ""
     },
+    "schematicVCSDeleteBlockByPlacement": {
+      "keys": ""
+    },
     "schematicVersionCycleModifier": {
       "keys": ""
     },
@@ -227,7 +244,7 @@
       "keys": ""
     },
     "selectionNudgeModifier": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "selectionModeCycle": {
       "keys": "LEFT_CONTROL,M"
@@ -296,10 +313,10 @@
       "keys": "BUTTON_3"
     },
     "toolSelectModifierBlock1": {
-      "keys": "LEFT_ALT"
+      "keys": ""
     },
     "toolSelectModifierBlock2": {
-      "keys": "LEFT_SHIFT"
+      "keys": ""
     },
     "unloadCurrentSchematic": {
       "keys": ""
@@ -339,14 +356,19 @@
     "enableAreaSelectionBoxesRendering": true,
     "enablePlacementBoxesRendering": true,
     "enableSchematicBlocksRendering": true,
+    "enableSchematicFluidRendering": true,
+    "enableSchematicFakeLighting": true,
     "enableSchematicOverlay": true,
     "ignoreExistingFluids": false,
     "overlayReducedInnerSides": false,
+    "renderAOModernEnable": false,
     "renderAreaSelectionBoxSides": true,
     "renderBlocksAsTranslucent": false,
+    "renderEnableTranslucentResorting": true,
     "renderCollidingSchematicBlocks": false,
     "renderErrorMarkerConnections": false,
     "renderErrorMarkerSides": true,
+    "renderFakeLightingLevel": 15,
     "renderPlacementBoxSides": false,
     "renderPlacementEnclosingBox": true,
     "renderPlacementEnclosingBoxSides": false,
@@ -357,6 +379,7 @@
     "schematicOverlayModelOutline": true,
     "schematicOverlayModelSides": false,
     "schematicOverlayRenderThroughBlocks": false,
+    "schematicOverlayTypeDiffBlock": true,
     "schematicOverlayTypeExtra": true,
     "schematicOverlayTypeMissing": true,
     "schematicOverlayTypeWrongBlock": true,
