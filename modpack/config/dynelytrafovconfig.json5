@@ -1,0 +1,6 @@
+{
+	modEnabled: true,
+	effectStrength: 0.3,
+	maxFov: 2.0,
+	alternateLogic: false
+}
