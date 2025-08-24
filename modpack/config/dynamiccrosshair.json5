@@ -19,7 +19,7 @@
 		"holdingShield": true,
 		"holdingBlock": "IfInteractable",
 		"holdingBlockInOffhand": true,
-		"holdingUsableItem": "IfInteractable",
+		"holdingUsableItem": "Disabled",
 		"forceHoldingSpyglass": false
 	},
 	"color": {
