@@ -107,7 +107,6 @@ key_key.mod.ctrl.1:key.keyboard.left.control:
 key_key.mod.ctrl.2:key.keyboard.right.control:
 key_key.mod.alt.1:key.keyboard.left.alt:
 key_key.mod.alt.2:key.keyboard.right.alt:
-key_key.variantswap.swap:key.keyboard.z:
 key_key.push_to_talk:key.keyboard.unknown:
 key_key.whisper:key.keyboard.unknown:
 key_key.mute_microphone:key.keyboard.y:
@@ -132,4 +131,12 @@ key_iris.keybind.reload:key.keyboard.unknown:
 key_iris.keybind.toggleShaders:key.keyboard.k:
 key_iris.keybind.shaderPackSelection:key.keyboard.o:
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown:
-key_iris.keybind.wireframe:key.keyboard.unknown
+key_iris.keybind.wireframe:key.keyboard.unknown:
+key_key.inspectability.openiteminspector:key.keyboard.grave.accent
+key_accessories.key.open_accessories_screen:key.keyboard.unknown:
+key_key.care_to_share.share:key.keyboard.i:
+key_key.toggleVisualItemContents:key.keyboard.unknown:
+key_key.toggleSelectedItemTooltips:key.keyboard.unknown:
+key_key.toggleCarriedItemTooltips:key.keyboard.unknown:
+key_key.itemswapper.itemswitcher:key.keyboard.r:
+key_key.itemswapper.openInventory:key.keyboard.unknown
