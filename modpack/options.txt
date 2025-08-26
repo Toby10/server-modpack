@@ -98,7 +98,7 @@ key_key.back:key.keyboard.s
 key_key.right:key.keyboard.d
 key_key.jump:key.keyboard.space
 key_key.sneak:key.keyboard.left.shift
-key_key.sprint:key.keyboard.left.control
+key_key.sprint:key.keyboard.unknown
 key_key.drop:key.keyboard.q
 key_key.inventory:key.keyboard.e
 key_key.chat:key.keyboard.t
@@ -159,7 +159,7 @@ key_key.clickthrough.toggle:key.keyboard.f9
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
-key_key.crawl:key.keyboard.unknown
+key_key.crawl:key.keyboard.left.control
 key_key.emotecraft.fastchoose:key.keyboard.b
 key_key.emotecraft.stop:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
