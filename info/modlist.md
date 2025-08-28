@@ -1,70 +1,98 @@
-## Перечень модификаций на стороне клиента
+## Перечень модификаций
 
-#### Взаимодействие игроков (Role Play)
-- Care to Share – Передать предмет другому игроку на `G`
-- Emotecraft – Эмоции на `B`
-- Eye Spy – Подзорная труба выделяет объекты
-- Nickname Detector – Узнать реальный ник игрока через `/nicknamedetector`
-- Pingspam – Упоминание игрока через `@` в чате
-- Player Locator Plus – Отображает указатели до игроков поблизости
-- Real Nickname – Изменить свой ник через команду `/nick`
-- ReplyMod – Команда `/r` для ответа на ЛС
-- Simple Voice Chat – Внутри-игровой голосовой чат
-- Sitting Plus – Сесть на `X`
-- SneakyNameTag – Прячет ник при зажатом `Shift`
-- Voice Messages – Голосовые сообщения в чате
-- What Are They Up To – Показывает, когда другой игрок открывает меню
+> (server-side) – Означает, что модификация находится только на стороне сервера
+> и не включена в пак для одиночной игры
 
 
 #### Новые предметы
 - Bandanas – Банданы (чисто косметика)
 - Copper Hopper – Медная воронка (фильтр предметов)
+- Enderscape – Новые блоки и предметы из Энда (часть вырезана)
 - Exposure – Фотоаппарат и механика проявления фото
 - Exposure Polaroid – Полароид (сразу печатает фото)
 - Genshin Instruments – Музыкальные инструменты
 - Immersive Melodies – Музыкальные инструменты
 - Metal Bundles – Вариации мешков
 - Nature's Compass – Компасс, указывающий на биомы
+- Personal Disc Player – Аудиоплеер для музыкальных дисков
+- Restart Detector (server-side) – Редстоун блок, срабатывающий при перезапуске сервера
 - Sawmill – Лесопилка для быстрого крафта предметов из дерева
 - SimpleHats – Шляпы (чисто косметика)
 - Some More Blocks – Новые разновидности ванильных блоков
 - Trowel – Инструмент для рандомной установки блоков
+- Wandering Trades (server-side) – Странствующий торговец продаёт мини-блоки
 
 
 #### Обновлённые игровые механики
 - Allay, behave ! – Взаимодействие с Тихоней
-- Animal Armor Trims – Кастомизация брони для животных
+- AudioPlayer (server-side) – Загрузка кастомной музыки на диски
 - Better Tridents – Трезубец теперь полезен и проще добывается
 - ClickThrough Plus – Можно открывать контейнеры сквозь таблички/рамки
+- Companion – Питомцы лучше следуют за игроком
 - CraftableCapes – Плащи теперь можно крафтить
 - Crawl – Ползти на `Ctrl`
 - Crops Love Rain – Ускоренный рост растений под дождём
 - Cut Through – Трава теперь не мешает бою
-- Dungeons and Taverns – Генерация похожих на ванилу структур
 - Elytra Trims – Кастомизация элитр (крыльев)
+- Forgiving Void (server-side) – При падении в пропасть иногда можно выжить
 - Horseman – Улучшения езды на лошади и др. ездовых животных
 - Hungrier – Сытый игрок может есть
 - Immersive Lanterns – Фонарь можно вешать на пояс
 - Invariable Paintings – Картины теперь как коллекционные предметы
 - Item Signs – Предметы можно класть в таблички
+- Just Mob Heads (server-side) – С мобов выпадают головы
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
+- Multiplayer Sleep (server-side) – Пропуск ночи одним игроком
 - Persistent Parrots – Попугаи более привязаны к хозяину
 - Right Click Harvest – Сбор и посадка на `ПКМ` с мотыгой
 - Self-Care Hive – Пчёлы со временем лечат себя и размножаются
+- Smarter Farmers – Жители умнее сажают растения
 - Sneak Through Berries – Удерживай `Shift`, чтобы не получать урон от ягод
 - Snow! Real Magic! – Улучшенные механики снега
 - Spawn-Proof Villagers – Вокруг жителей не спавнятся мобы
+- Stretchy Leash – Поводок меньше рвётся и издаёт звук при этом
 - Superb Steeds – Лоашадь постепенно прокачивается
 - StackSize – Расширенные стаки для некоторых предметов (зелья, снежки и др.)
 - This boat is MINE! – Высадить моба из лодки/вагонетки на `Shift + ПКМ`
-- Toggle Item Frames – Сделать рамку невидимой на `Shift + ПКМ` пустой рукой
+- Toggleable Item Frames – Сделать рамку невидимой на `Shift + ПКМ` пустой рукой
 - You May Rest Now – Позволяет спать, если враги рядом не видят тебя
+- (server-side) Эндермены не подбирают блоки
+- (server-side) Огонь не распросстраняется
 
 
-#### Перенос игровых механик из новых версий игры
+#### Перенос механик из новых версий игры
 - Perfect Parity: Spring To Life – Перенос обновления 1.21.5
 - VanillaBackport – Перенос обновлений 1.21.4 и 1.21.6
+
+
+#### Генерация мира
+- Dungeons and Taverns – Генерация похожих на ванилу структур
+- Dungeons and Taverns Addons (server-side) – Доп. строения
+- Enderscape – Новая генерация Эндер мира
+- Improved Village Placement – Деревни не спавнятся в воздухе
+- No Void Structures – Исправляет висящие в воздухе постройки
+- Terralith (server-side) – Новые биомы из ванильных блоков
+
+
+#### Взаимодействие игроков (Role Play)
+- Afk Display (server-side) – после 2,5 мин ник игрока становится серым
+- Better Snowball Fights (server-side) – Снежки отталкивают игроков
+- Care to Share – Передать предмет другому игроку на `G`
+- Emotecraft – Эмоции на `B`
+- Eye Spy – Подзорная труба выделяет объекты
+- MapArtCopyright (server-side) – Авторское право на карты
+- Nickname Detector – Узнать реальный ник игрока через `/nicknamedetector`
+- Pingspam – Упоминание игрока через `@` в чате
+- Player Locator Plus – Отображает указатели до игроков поблизости
+- Real Nickname – Изменить свой ник через команду `/nick`
+- ReplyMod – Команда `/r` для ответа на ЛС
+- Simple Voice Chat – Внутри-игровой голосовой чат
+- Simple Voice Chat No Mic (server-side) – Команда `/msgvc` для сообщения в группе
+- Sitting Plus – Сесть на `X`
+- SneakyNameTag – Прячет ник при зажатом `Shift`
+- Voice Messages – Голосовые сообщения в чате
+- What Are They Up To – Показывает, когда другой игрок открывает меню
 
 
 #### Графика: текстуры, свет и т.д.
@@ -73,6 +101,7 @@
 - Better Leaves – Пушистая листва
 - Complementary Reimagined – Шейдеры
 - Distant Horizons – Рисует горизонт за границей дальности прорисовки
+- Dynamic Brightness – Подстраивает яркость под окружение
 - DynElytraFov – Во время полёта меняется FOV
 - Eating Animation – Анимация еды
 - Enchanted Bookshelves – Зачарованные книги мерцают в книжной полке
@@ -95,28 +124,36 @@
 
 
 #### Вспомогательные инструменты
+- Armor Stand Poses (server-side) – Смена позы стойки для брони на `ПКМ`
 - Armor Statues – Тонкая настройка стойки для брони на `Shift + ПКМ`
 - Block Meter – Линейка на `B`
 - Chat Calc – Калькулятор в чате при вводе "="
 - Completionist's Index – Журнал найденных предметов в игре (доступ через инвентарь)
+- Death Finder – Отображает координаты на окне смерти
 - Fabric Tailor – внутриигровая смена скина (доступ через `Esc`)
 - FreeCam – Летающая камера на `F4` (на других серверах за это могут [забанить](https://github.com/MinecraftFreecam/Freecam/issues/196))
-- Inspectability – Осмотр предмета в руке на `Ё`
+- Inspectability – Осмотр предмета в руке на `~`
 - ItemSwapper – Быстрая замена предмета в руке на `R`
 - Knowlogy Book – Гайд по игре в виде книги
 - Lighty – Уровень освещённости на `F8`
 - Litematica – Строительство по схемам (доступ через `Esc`)
+- Litemoretica (server-side) – Расширение для Litematica
 - Music Notification – Плеер для музыки (через главное меню или `Esc`)
 - OffersHUD – Отображение сделок жителя при наведении на него
 - PasswordManager for AuthMe – Автозаполнение пароля при входе на сервер
 - Redstone Helper – Отображение тех. информации для редстоуна (подключается в ресурс-паках)
-- SoundsBeGone – Позволяет отключать определённые звуки (настраивается через список модов)
 - Schematic Preview – Отображает область выделения в Litematica
-- Sticky Keys – Удерживать нажатые клавиши (подключается в настройках управления)
 - Screenshot Viewer – Галерея скриншотов (через главное меню или `Esc`)
+- Silence Mobs (server-side) – Выключить звук конкретного моба через команду `/st`
+- Sound Controller – Управление отдельными звуками (настраивается через список модов)
+- SoundsBeGone – Позволяет отключать определённые звуки (настраивается через список модов)
+- Sticky Keys – Удерживать нажатые клавиши (подключается в настройках управления)
+- TabTPS (server-side) – Показывает текущую нагрузку на сервер на `Tab` 
 - Technical Utilities – Утилиты для Litematica и WorldEdit
 - Xaero's World Map – Карта мира на `M`
 - Zoomify – Приблизить на `C`
+- WITS – Узнать, что это за постройка через `/wits`
+- WorldEdit (server-side) – Редактор мира
 - WorldEditCUI – Графический интерфейс WorldEdit
 
 
@@ -178,6 +215,8 @@
 - Vocal Villagers – Разнообразные звуки жителей
 
 
+## Технические (душные) моды
+
 #### Исправления недочётов игры
 - Allow Portal GUIs – Позволяет использовать GUI во время телепорта через портал
 - Boat Break Fix – Лодки никогда не ломаются при падении
@@ -185,8 +224,8 @@
 - Break Free – Позволяет непрерывно ломать блок при смене инструментов
 - Client Maps – Кэширует карты на сервере
 - Client Tweaks – Разные исправления геймплея
-- Death Finder – Отображает координаты на окне смерти
 - Debugify – Действительно исправляет баги игры
+- Disable Custom Worlds Advice – Убирает предупреждение о кастомных измерениях
 - Doors Closed – Жители всегда закрывают за собой двери
 - Dynamic Fire Overlay – Не отображает горение, если игрок с эффектом огнестойкости
 - ElytraSwimFix – Предотвращает полёт в воде
@@ -197,10 +236,12 @@
 - Join AutoSprint Mod – Бег не сбрасывается при перезаходе на сервер
 - KeepTheResourcePack – Сохраняет серверный ресурспак
 - Keybind Fix Plus – Исправляет конфликты между горячими клавишами
+- Leaves Be Gone – Листья деревьев быстрее исчезают
 - MapMipMapMod – Исправляет рендер карты на большом расстоянии
 - Model Gap Fix – Исправляет щели в текстурах
 - No Chat Reports – Убирает кнопку репорта в чате
-- No Dimension Background – Убирает окно загрузки при переходе между измерениями
+- No Dimension Background – Убирает фон окна загрузки при переходе между измерениями
+- No Loading Terrain – Убирает окно загрузки территории
 - NoNarrator – УбПолностью убирает функцию "Диктора"
 - Not Enough Crashes – При краше игры не закрывает её
 - Packet Tweaker – Исправление проблем с пакетами данных
@@ -213,31 +254,58 @@
 - Suggestion Tweaker – Улучшает подсказки при наборе команд в чате
 - Text Formatting Everywhere – Позволяет использовать [цветовые коды](https://minecraft.wiki/w/Formatting_codes) везде
 - ToastBegone – Убирает уведомления туториала и новых рецептах
+- TooFast (server-side) – Позволяет двигаться быстро без лагов
 - Volume Fix – Исправляет обработку громких звуков
 - Why Does My Glass Sound Like That – Меняет звук разрушения стекла с шёлковым касанием
 
 
 #### Производительность
+- Alternate Current – Оптимизация работы редстоуна
 - BadOptimizations – Оптимизация вычислений игры
 - Better Beds – Ускоряет рендер кроватей
+- Clumps – Частицы опыта собираются в кучи
 - Concurrent Chunk Management Engine (C2ME) – Работа с чанками
 - Consumable Optimizer – Убирает лаги во время еды
 - DEUF Refabricated – Исправляет работу с UUID
 - Dynamic FPS – Уменьшение потребления ресурсов в фоне
 - Enhanced Block Entities – Оптимизация рендера контейнеров
 - Entity Culling – Оптимизация рендера вне зоны видимости
+- Faster Random (server-side) – Ускоренная генерация мира
 - Fast Paintings – Оптимизация картин
 - FerriteCore – Работа с ОЗУ
 - GPU Tape – Исправляет утечки видео-памяти
 - Head In The Clouds – Скрывает дождь над облаками
 - ImmediatelyFast – Оптимизация на низких настройках графики
 - Ksyxis – Ускорение загрузки мира
+- Let Me Despawn (server-side) – Мобы с предметами в руках деспавнятся
 - Lithium – Оптимизация игровой логики
+- MemorySweep (server-side) – Регулярная очистка ОЗУ сервера
 - ModernFix – Разные улучшения производительности
 - More Culling – Дополнение к Entity Culling
 - Noisium – Ускорение генерации мира
 - Sodium – Базовая оптимизация графики
 - ThreadTweak – Исправляет работу с многопоточностью
+- TT20 (server-side) – Делает лаги сервера незаметными
+- QuickBench (server-side) – Оптимизация данных во время крафта
+
+
+#### Администрирование (server-side)
+- AltX – Логгирование ip-адресов
+- Blossom Mods – Телепорт между мирами
+- Chunk Activity Tracker – Анализ использования чанков
+- ChunkDebug – Просмотр загруженных чанков
+- Dimensional Inventories – Раздельный инвентарь между измерениями
+- Easy Authentication Mod – Авторизация игроков
+- Ledger – Журналирование
+- LuckPerms – Управление правами игроков
+- Memory Check – Проверка ОЗУ сервера
+- No Kebab – Утилита для картин
+- Observable – Поиск источника лагов
+- Simple Voice Chat Enhanced Groups – Улучшения групп в голосовом чате
+- Spark – Анализ производительности сервера
+- World Border – Кастомные границы мира
+- WorldGameRules – Изолированное управление игровыми правилами для измерений
+- Xaero's Map Server Utils – Запрет определённых опций из мода Xaero's Map
 
 
 #### Библиотеки и утилиты для сборки модпака
@@ -254,15 +322,18 @@
 - Item Obliterator – Позволяет убирать определенные предметы из игры
 - Jukebox Custom Disc Fix – Поддержка текстурпаков на музыкальные диски
 - Lavender – Библиотека для книги с гайдами
+- Lithostitched – Библиотека для настройки генерации мира
 - Loading Backgrounds – Меняет картинки на экранах загрузки
 - Loading Screen BG Swap – Меняет картинки на экране предварительной загрузки игры
 - Melody – Смена фоновой музыки
 - Mods Command – Комманда /mods для отображения списка модов
 - OptiGUI – Поддержка текстурпаков на интерфейс (Colorful Containers)
+- Polymer – Создание server-side контента
 - Polytone – Кастомизация цветов через ресурспаки
 - Resource Pack Overrides – Предустановленный порядок ресурспаков
 - Translucency Fix – Добавляет прозрачность в GUI
 - Vistas – Смена панорам в главном меню
+- Almanac (server-side)
 - CoroUtil
 - ForgeConfigAPIPort
 - Iceberg
@@ -297,4 +368,5 @@
 - TxniLib
 - ukulib
 - Yet Another Config Lib
+- YUNG's API (server-side)
 - Server Translations API
