@@ -19,14 +19,11 @@
 <br><br>
 
 ### Дополнительно:
+- Список модов ([перейти](info/modlist.md))
 - Гайд по установке ([перейти](#установка))
-- Гайд по обновлению сборки ([перейти](#обновление))
-- Ресурс-пак с HD фонами главного меню ([скачать](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/HD.Panorama.Pack.zip))
+- Гайд по обновлению ([перейти](#обновление))
+- Ресурспак с HD фонами главного меню ([скачать](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/HD.Panorama.Pack.zip))
 - Идеология модпака ([перейти](#идеология-модпака))
-- Список модов клиента ([перейти](info/modlist.md))
-- Модификации сервера ([перейти](info/server_modlist.md))
-- Полезные команды ([перейти](info/server_commands.md))
-- Карта сервера ([перейти](info/images/map_overworld.png))
 <br><br>
 
 ### Установка.
