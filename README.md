@@ -90,7 +90,7 @@
 <!---------------------------------[ Links ]---------------------------------->
 
 [Release link]: https://github.com/Toby10/server-modpack/releases/download/v1.7/Server_Modpack_v1.7.zip
-[Modrinth link]: https://github.com/Toby10/server-modpack/releases/download/v1.7/Server_Modpack_v1.7.mrpack
+[Modrinth link]: https://github.com/Toby10/server-modpack/releases/download/v1.7/Server.Modpack.v1.7.mrpack
 [Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%B0%D1%80%D1%85%D0%B8%D0%B2-v1.7-gray?style=for-the-badge&labelColor=37a779
 [HD Panoramas RP]: https://github.com/Toby10/server-modpack/releases/download/v1.6.1/HD.Panorama.Pack.zip
 [HD Loading BGs RP]: https://github.com/Toby10/server-modpack/releases/download/v1.7/HD_Loading_Backgrounds.zip
