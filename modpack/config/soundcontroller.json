@@ -7,6 +7,10 @@
       "volume": 2.0
     },
     {
+      "soundId": "enderscape:item.elytra.land",
+      "volume": 0.0
+    },
+    {
       "soundId": "minecraft:ui.toast.challenge_complete",
       "volume": 0.75
     }
