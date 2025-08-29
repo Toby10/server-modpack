@@ -1,7 +1,5 @@
 {
   // -----------------------------------------------------------
-  //              Item Obliterator by ElocinDev
-  // -----------------------------------------------------------
   //  
   // How to add items?
   //   - They are json strings, so you need to separate each
@@ -10,52 +8,167 @@
   //     Example: "!minecraft:.*_sword" to disable all swords
   //  
   // -----------------------------------------------------------
-  // Do not touch this
   "configVersion": 3,
-  // -----------------------------------------------------------
-  // Items here will be unusable completely
-  //    Example: minecraft:diamond
   "blacklisted_items": [
-    "metalbundles:netherite_bundle"
+    "metalbundles:netherite_bundle",
+
+    "enderscape:drift_leggings",
+    "enderscape:nebulite",
+    "enderscape:nebulite_block",
+    "enderscape:nebulite_ore",
+    "enderscape:nebulite_shards",
+    "enderscape:mirestone_nebulite_ore",
+    "enderscape:purpur_tiles",
+    "enderscape:purpur_tile_slab",
+    "enderscape:purpur_tile_stairs",
+    "enderscape:mirror",
+    "enderscape:cracked_mirror",
+    "enderscape:magnia_attractor",
+
+    "somemoreblocks:lapis_pillar",
+    "somemoreblocks:cracked_lapis_bricks",
+    "somemoreblocks:lapis_bricks",
+    "somemoreblocks:diamond_grate",
+    "somemoreblocks:diamond_bricks",
+    "somemoreblocks:cracked_diamond_bricks",
+    "somemoreblocks:diamond_pillar",
+    "somemoreblocks:cut_diamond",
+    "somemoreblocks:cracked_cut_diamond",
+    "somemoreblocks:cut_lapis",
+    "somemoreblocks:cracked_cut_lapis",
+    "somemoreblocks:emerald_bricks",
+    "somemoreblocks:cracked_emerald_bricks",
+    "somemoreblocks:emerald_pillar",
+    "somemoreblocks:cut_emerald",
+    "somemoreblocks:cracked_cut_emerald",
+    "somemoreblocks:coal_bricks",
+    "somemoreblocks:cracked_coal_bricks",
+    "somemoreblocks:cracked_cut_gold",
+    "somemoreblocks:redstone_bricks",
+    "somemoreblocks:cracked_redstone_bricks",
+    "somemoreblocks:redstone_pillar",
+    "somemoreblocks:cut_redstone",
+    "somemoreblocks:cracked_cut_redstone",
+    "somemoreblocks:cracked_cut_coal",
+    "somemoreblocks:cut_coal",
+    "somemoreblocks:cracked_cut_iron",
+    "somemoreblocks:cut_iron",
+    "somemoreblocks:iron_pillar",
+    "somemoreblocks:cracked_iron_bricks",
+    "somemoreblocks:coal_pillar",
+    "somemoreblocks:iron_bricks",
+    "somemoreblocks:amethyst_pillar",
+    "somemoreblocks:cut_amethyst",
+    "somemoreblocks:cracked_cut_amethyst",
+    "somemoreblocks:netherite_bricks",
+    "somemoreblocks:cracked_netherite_bricks",
+    "somemoreblocks:cracked_amethyst_bricks",
+    "somemoreblocks:amethyst_bricks",
+    "somemoreblocks:netherite_pillar",
+    "somemoreblocks:cut_netherite",
+    "somemoreblocks:cracked_cut_netherite",
+    "somemoreblocks:netherite_grate",
+    "somemoreblocks:cut_gold",
+    "somemoreblocks:gold_pillar",
+    "somemoreblocks:cracked_gold_bricks",
+    "somemoreblocks:gold_bricks",
+    "somemoreblocks:iron_grate",
+
+    "somemoreblocks:cracked_end_stone_tiles",
+    "somemoreblocks:end_stone_tiles",
+    "somemoreblocks:end_stone_pillar",
+    "somemoreblocks:cracked_end_stone_bricks",
+    "somemoreblocks:chiseled_end_stone_bricks",
+    "somemoreblocks:polished_end_stone_slab",
+    "somemoreblocks:polished_end_stone_stairs",
+    "somemoreblocks:polished_end_stone",
+    "somemoreblocks:smooth_end_stone",
+    "somemoreblocks:mossy_end_stone_brick_wall",
+    "somemoreblocks:mossy_end_stone_brick_slab",
+    "somemoreblocks:mossy_end_stone_brick_stairs",
+    "somemoreblocks:mossy_end_stone_bricks",
+    "somemoreblocks:end_stone_tile_wall",
+    "somemoreblocks:end_stone_tile_slab",
+    "somemoreblocks:end_stone_tile_stairs",
+    "somemoreblocks:smooth_end_stone_slab",
+    "somemoreblocks:purpur_tile_stairs",
+    "somemoreblocks:cracked_purpur_tiles",
+    "somemoreblocks:purpur_tiles",
+    "somemoreblocks:cracked_purpur_block",
+    "somemoreblocks:chiseled_purpur",
+    "somemoreblocks:polished_purpur_slab",
+    "somemoreblocks:polished_purpur_stairs",
+    "somemoreblocks:polished_purpur",
+    "somemoreblocks:smooth_purpur_slab",
+    "somemoreblocks:smooth_purpur",
+    "somemoreblocks:mossy_purpur_block_wall",
+    "somemoreblocks:mossy_purpur_block_slab",
+    "somemoreblocks:mossy_purpur_block_stairs",
+    "somemoreblocks:mossy_purpur_block",
+    "somemoreblocks:purpur_tile_wall",
+    "somemoreblocks:purpur_tile_slab",
+    
+    "somemoreblocks:corrupted_polished_blackstone_brick_stairs",
+    "somemoreblocks:corrupted_polished_blackstone_bricks",
+    "somemoreblocks:corrupted_polished_blackstone_brick_wall",
+    "somemoreblocks:corrupted_polished_blackstone_brick_slab",
+
+    "somemoreblocks:calcite_tile_wall",
+    "somemoreblocks:calcite_tile_slab",
+    "somemoreblocks:calcite_tile_stairs",
+    "somemoreblocks:cracked_calcite_tiles",
+    "somemoreblocks:calcite_tiles",
+    "somemoreblocks:mossy_calcite_brick_wall",
+    "somemoreblocks:mossy_calcite_bricks",
+    "somemoreblocks:mossy_calcite_brick_stairs",
+    "somemoreblocks:mossy_calcite_brick_slab",
+    "somemoreblocks:smooth_calcite",
+    "somemoreblocks:smooth_calcite_slab",
+
+    "somemoreblocks:bone_tile_stairs",
+    "somemoreblocks:cracked_bone_tiles",
+    "somemoreblocks:bone_tiles",
+    "somemoreblocks:bone_brick_wall",
+    "somemoreblocks:bone_brick_slab",
+    "somemoreblocks:bone_brick_stairs",
+    "somemoreblocks:cracked_bone_bricks",
+    "somemoreblocks:bone_bricks",
+    "somemoreblocks:bone_tile_wall",
+    "somemoreblocks:bone_tile_slab",
+
+    "somemoreblocks:soul_sandstone",
+    "somemoreblocks:soul_sandstone_stairs",
+    "somemoreblocks:soul_sandstone_slab",
+    "somemoreblocks:soul_sandstone_wall",
+    "somemoreblocks:chiseled_soul_sandstone",
+    "somemoreblocks:soul_sandstone_bricks",
+    "somemoreblocks:cracked_soul_sandstone_bricks",
+    "somemoreblocks:soul_sandstone_brick_stairs",
+    "somemoreblocks:soul_sandstone_tile_wall",
+    "somemoreblocks:soul_sandstone_tile_slab",
+    "somemoreblocks:soul_sandstone_tile_stairs",
+    "somemoreblocks:cracked_soul_sandstone_tiles",
+    "somemoreblocks:soul_sandstone_tiles",
+    "somemoreblocks:soul_sandstone_pillar",
+    "somemoreblocks:soul_sandstone_brick_wall",
+    "somemoreblocks:soul_sandstone_brick_slab",
+    "somemoreblocks:cut_soul_sandstone",
+    "somemoreblocks:smooth_soul_sandstone_stairs",
+    "somemoreblocks:cut_soul_sandstone_slab",
+    "somemoreblocks:smooth_soul_sandstone_slab",
+    "somemoreblocks:smooth_soul_sandstone"
+
   ],
-  // -----------------------------------------------------------
-  // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
-  // Use with caution! This is a very expensive operation and can cause lag if you have a lot of items blacklisted.
-  // 	
-  // 	 Example to disable a regeneration potion: Potion:"minecraft:regeneration"
-  // 	
-  // 	 You can also use regular expressions by starting the value with !
   "blacklisted_component_data": [],
-  // -----------------------------------------------------------
-  // If true, the mod will log all components of your main hand item every second.
-  // This is useful for finding the specific component data of an item to blacklist it.
-  //  
-  // Only enable it if you need it, as this is only meant to be used for debugging.
   "debug_print_components": false,
-  // -----------------------------------------------------------
-  // Items here will not be able to be right-clicked (Interact)
-  //    Example: minecraft:apple
   "only_disable_interactions": [
     "examplemod:example_item"
   ],
-  // -----------------------------------------------------------
-  // Items here will not be able to be used to attack
-  //    Example: minecraft:diamond_sword
   "only_disable_attacks": [
     "examplemod:example_item"
   ],
-  // -----------------------------------------------------------
-  // Items here will get their recipes disabled
-  // Keep in mind this already is applied to blacklisted items
   "only_disable_recipes": [
     "examplemod:example_item"
   ],
-  // -----------------------------------------------------------
-  // If true, the mod will use a hashset to handle the blacklisted items
-  // This is a more optimized approach only if you have a lot of items blacklisted (20 or more is recommended)
-  // If you just have a small amount of items blacklisted, keep this false
-  //  
-  // [!] Enabling this will disable all regular expressions
-  // [!] Does not apply to NBT, only item blacklist / interaction / attack
   "use_hashmap_optimizations": false
 }
