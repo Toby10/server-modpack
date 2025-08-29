@@ -81,7 +81,7 @@
 - Emotecraft – Эмоции на `B`
 - Eye Spy – Подзорная труба выделяет объекты
 - MapArtCopyright (server-side) – Авторское право на карты
-- Nickname Detector – Узнать реальный ник игрока через `/nicknamedetector`
+- Nickname Detector – Узнать реальный ник игрока на `;`
 - Pingspam – Упоминание игрока через `@` в чате
 - Player Locator Plus – Отображает указатели до игроков поблизости
 - Real Nickname – Изменить свой ник через команду `/nick`
