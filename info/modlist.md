@@ -77,7 +77,7 @@
 #### Взаимодействие игроков (Role Play)
 - Afk Display (server-side) – после 2,5 мин ник игрока становится серым
 - Better Snowball Fights (server-side) – Снежки отталкивают игроков
-- Care to Share – Передать предмет другому игроку на `G`
+- Care to Share – Передать предмет другому игроку на `I`
 - Emotecraft – Эмоции на `B`
 - Eye Spy – Подзорная труба выделяет объекты
 - MapArtCopyright (server-side) – Авторское право на карты
