@@ -12,22 +12,22 @@
 - Exposure Polaroid – Полароид (сразу печатает фото)
 - Genshin Instruments – Музыкальные инструменты
 - Immersive Melodies – Музыкальные инструменты
-- Metal Bundles – Вариации мешков
+- Metal Bundles – Вариации мешков из 1.21.2
 - Nature's Compass – Компасс, указывающий на биомы
 - Personal Disc Player – Аудиоплеер для музыкальных дисков
-- Restart Detector (server-side) – Редстоун блок, срабатывающий при перезапуске сервера
+- Restart Detector (server-side) – Редстоун блок, срабатывающий на перезапуск сервера
 - Sawmill – Лесопилка для быстрого крафта предметов из дерева
 - SimpleHats – Шляпы (чисто косметика)
-- Some More Blocks – Новые разновидности ванильных блоков
+- Some More Blocks – Новые разновидности ванильных блоков (часть выоезана)
 - Trowel – Инструмент для рандомной установки блоков
-- Wandering Trades (server-side) – Странствующий торговец продаёт мини-блоки
+- Wandering Trades (server-side) – Странствующий торговец продаёт мини-блоки для декора
 
 
 #### Обновлённые игровые механики
 - Allay, behave ! – Взаимодействие с Тихоней
 - AudioPlayer (server-side) – Загрузка кастомной музыки на диски
 - Better Tridents – Трезубец теперь полезен и проще добывается
-- ClickThrough Plus – Можно открывать контейнеры сквозь таблички/рамки
+- ClickThrough Plus – Сундуки можно открывать сквозь таблички/рамки
 - Companion – Питомцы лучше следуют за игроком
 - CraftableCapes – Плащи теперь можно крафтить
 - Crawl – Ползти на `Ctrl`
@@ -39,7 +39,7 @@
 - Hungrier – Сытый игрок может есть
 - Immersive Lanterns – Фонарь можно вешать на пояс
 - Invariable Paintings – Картины теперь как коллекционные предметы
-- Item Signs – Предметы можно класть в таблички
+- Item Signs – Предметы можно вешать на таблички
 - Just Mob Heads (server-side) – С мобов выпадают головы
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
@@ -67,7 +67,7 @@
 
 
 #### Генерация мира
-- Dungeons and Taverns – Генерация похожих на ванилу структур
+- Dungeons and Taverns (server-side) – Генерация похожих на ванилу структур
 - Dungeons and Taverns Addons (server-side) – Доп. строения
 - Enderscape – Новая генерация Эндер мира
 - Improved Village Placement – Деревни не спавнятся в воздухе
@@ -126,6 +126,7 @@
 #### Вспомогательные инструменты
 - Armor Stand Poses (server-side) – Смена позы стойки для брони на `ПКМ`
 - Armor Statues – Тонкая настройка стойки для брони на `Shift + ПКМ`
+- Axiom (server-side) – Современный редактор мира
 - Block Meter – Линейка на `B`
 - Chat Calc – Калькулятор в чате при вводе "="
 - Completionist's Index – Журнал найденных предметов в игре (доступ через инвентарь)
@@ -133,6 +134,7 @@
 - Fabric Tailor – внутриигровая смена скина (доступ через `Esc`)
 - FreeCam – Летающая камера на `F4` (на других серверах за это могут [забанить](https://github.com/MinecraftFreecam/Freecam/issues/196))
 - Inspectability – Осмотр предмета в руке на `~`
+- Item Rename – Команда /rename для переименовывания предметов
 - ItemSwapper – Быстрая замена предмета в руке на `R`
 - Knowlogy Book – Гайд по игре в виде книги
 - Lighty – Уровень освещённости на `F8`
@@ -210,7 +212,6 @@
 #### Звуковые эффекты
 - ExtraSounds Next – Звуки интерфеса и др.
 - Hytale Menu Music – Музыка из Hytale в главном меню
-- IllagerBlabber – Озвучка разбойников
 - Sound Physics Remastered – Физика звука
 - Vocal Villagers – Разнообразные звуки жителей
 
@@ -314,7 +315,6 @@
 - Continuity – Поддержка соединенных текстур
 - CIT Resewn – Поддержка текстур для переименованных предметов
 - Default Options – Позволяет установить настройки "по умолчанию"
-- Ducky Updater: ReWork – Инструмент для обновления модов
 - EMF и ETF – Поддержка вариативных текстур мобов
 - FancyMenu – Редактор интерфейсов
 - Inline – Поддержка картинок в тексте
