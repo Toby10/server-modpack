@@ -5,36 +5,39 @@
 
 # Сборка модов для сервера Minecraft
 
-#### Что нового:
-- Кастомизация персонажа: [плащи](https://modrinth.com/mod/craftablecapes/gallery), [шляпы](https://modrinth.com/mod/simple-hats) и [др](https://modrinth.com/mod/immersive-lanterns).
-- Новые музыкальные инструменты
-- Новые [вариации](https://modrinth.com/mod/some-more-blocks) ванильных блоков
-- Новый блок: "Лесопилка" и профессия жителя "Плотник"
-- Новый предмет: "Природный компас", для поиска биомов
-- Новый движок рендера скинов
-- Обновлённый функционал контейнеров
-- Улучшения интерфейса и прочее
+**Что нового:**
+- На карте сервера появились новые биомы
+- Эндер мир перезапущен с новым [модом](https://modrinth.com/mod/enderscape)
+- Новые виды мешков
+- Медная воронка для фильтрации предметов
+- Ручной аудиоплеер
+- Улучшения звука и графики
+- Полный актуальный [список модификаций](https://github.com/Toby10/server-modpack/blob/master/info/modlist.md)
 
-[![Download button]][Download link]
+[![Download button]][Release link]
+
+**Также рекомендую скачать (по желанию):**
+- [Панорамы для главного меню][HD Panoramas RP]
+- [Фоны для окна загрузки мира][HD Loading BGs RP]
+- [Axiom][Axiom release] (для креатива)
 <br><br>
 
-### Дополнительно:
+### Информация:
 - Список модов ([перейти](info/modlist.md))
 - Гайд по установке ([перейти](#установка))
 - Гайд по обновлению ([перейти](#обновление))
-- Ресурспак с HD фонами главного меню ([скачать](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/HD.Panorama.Pack.zip))
 - Идеология модпака ([перейти](#идеология-модпака))
 <br><br>
 
 ### Установка.
 Выбери подходящий тебе вариант:
 - **TLauncher**: установи модпак [вручную](#ручная-установка).
-- **Другой лаунчер**: импортируй [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack) в новую инстанцию.
-- **Официальный клиент Mojang**: используй [Modrinth App](https://modrinth.com/app) и просто открой [файл .mrpack](https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.mrpack).
+- **Другой лаунчер**: импортируй [файл .mrpack][Modrinth link] в новую инстанцию.
+- **Официальный клиент Mojang**: используй [Modrinth App](https://modrinth.com/app) и просто открой [файл .mrpack][Modrinth link].
 <br><br>
 
 ### Ручная установка.
-1. Качаешь [полный архив][Download link] последней версии.
+1. Качаешь [полный архив][Release link] последней версии.
 2. Создаёшь модпак по следующей инструкции:
 > <details><summary>Инструкция для TLauncher (кликабельно)</summary>
 > <br>
@@ -81,5 +84,9 @@
 
 <!---------------------------------[ Links ]---------------------------------->
 
-[Download link]: https://github.com/Toby10/server-modpack/releases/download/v1.6.1/Server_Modpack_v1.6.1.zip
-[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%B0%D1%80%D1%85%D0%B8%D0%B2-v1.6.1-gray?style=for-the-badge&labelColor=37a779
+[Release link]: https://github.com/Toby10/server-modpack/releases/download/v1.7/Server_Modpack_v1.7.zip
+[Modrinth link]: https://github.com/Toby10/server-modpack/releases/download/v1.7/Server_Modpack_v1.7.mrpack
+[Download button]: https://img.shields.io/badge/%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C_%D0%B0%D1%80%D1%85%D0%B8%D0%B2-v1.7-gray?style=for-the-badge&labelColor=37a779
+[HD Panoramas RP]: https://github.com/Toby10/server-modpack/releases/download/v1.6.1/HD.Panorama.Pack.zip
+[HD Loading BGs RP]: https://github.com/Toby10/server-modpack/releases/download/v1.7/HD_Loading_Backgrounds.zip
+[Axiom release]: https://cdn.modrinth.com/data/N6n5dqoA/versions/6BFd0w5s/Axiom-5.0.1-for-MC1.21.1.jar
