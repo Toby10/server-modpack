@@ -10,7 +10,7 @@
   "enableNSFW": false,
   "alwaysOpenScreen": false,
   "debug": false,
-  "validate": false,
+  "validate": true,
   "validationThreshold": 8.0,
   "emotesFolderOnLogicalServer": false,
   "emotesDirectory": "emotes",
