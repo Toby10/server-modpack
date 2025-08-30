@@ -1,6 +1,6 @@
 enabled = true
 ignoreNoProfession = true
 suppressVillagerHeadRolling = false
-offsetX = 5
-offsetY = 20
-scale = 1.0
+offsetX = 32
+offsetY = 32
+scale = 0.9

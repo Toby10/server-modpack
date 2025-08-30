@@ -32,6 +32,7 @@
 - CraftableCapes – Плащи теперь можно крафтить
 - Crawl – Ползти на `Ctrl`
 - Crops Love Rain – Ускоренный рост растений под дождём
+- Depu (server-side) – Эндермены не подбирают блоки
 - Elytra Trims – Кастомизация элитр (крыльев)
 - Forgiving Void (server-side) – При падении в пропасть иногда можно выжить
 - Horseman – Улучшения езды на лошади и др. ездовых животных
@@ -42,10 +43,11 @@
 - Just Mob Heads (server-side) – С мобов выпадают головы
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
-- Multiplayer Sleep (server-side) – Пропуск ночи одним игроком
+- One PlayerSleep (server-side) – Скип ночи одним игроком
 - Persistent Parrots – Попугаи более привязаны к хозяину
 - Right Click Harvest – Сбор и посадка на `ПКМ` с мотыгой
 - Self-Care Hive – Пчёлы со временем лечат себя и размножаются
+- SleepWarp (server-side) – Во время сна игра ускоряется
 - Smarter Farmers – Жители умнее сажают растения
 - Sneak Through Berries – Удерживай `Shift`, чтобы не получать урон от ягод
 - Snow! Real Magic! – Улучшенные механики снега
@@ -354,7 +356,6 @@
 - iChunUtil
 - Kiwi Library
 - Konkrete
-- Lavender
 - Malilib
 - Monolib
 - Moonlight
