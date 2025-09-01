@@ -15,7 +15,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:true
-gamma:0.7
+gamma:0.3
 graphicsMode:1
 guiScale:3
 maxFps:120
@@ -178,7 +178,10 @@ key_key.scholar.export_book:key.keyboard.f7
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
 key_key.sittingplus.sit:key.keyboard.x
 key_soundsbegone.config:key.keyboard.unknown
-key_key.stickykeys.stick_keys:key.keyboard.unknown
+key_key.stickykeys.stick_keys:key.keyboard.4
+key_key.trashslot.toggle:key.keyboard.unknown
+key_key.trashslot.toggle_lock:key.keyboard.unknown
+key_key.trashslot.delete:key.keyboard.delete
 key_key.vistas.panoramic_screenshot:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
@@ -227,7 +230,7 @@ soundCategory_extrasounds$empty_hotbar:1.0
 soundCategory_extrasounds$enabled_footstep:1.0
 soundCategory_extrasounds$enabled_effects:1.0
 soundCategory_extrasounds$enabled_poof:1.0
-soundCategory_redstone:0.0
+soundCategory_redstone:0.5
 modelPart_cape:true
 modelPart_jacket:true
 modelPart_left_sleeve:true

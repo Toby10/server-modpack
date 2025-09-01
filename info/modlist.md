@@ -204,6 +204,7 @@
 - SmoothHud – Анимация HotBar'a
 - Sodium Extra – Доп. настройки Sodium
 - Status Effect Bars – Индикаторы эффектов в углу экрана
+- Trash Slot – Слот для удаления предметов в инвентаре
 - Villager Trading Plus – Быстрая торговля
 - VisualKeys – Визуальное отображение настроек интерфейса
 - World Play Time – Отображает кол-во часов проведённых в одиночном мире
