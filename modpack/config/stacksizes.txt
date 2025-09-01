@@ -1,5 +1,4 @@
 # You can put values here to adjust the stack size, eg: [minecraft:ender_pearl=16]
-minecraft:ender_pearl=64
 minecraft:enchanted_golden_apple=16
 minecraft:white_bed=64
 minecraft:black_bed=64
@@ -26,3 +25,6 @@ minecraft:rabbit_stew=16
 minecraft:suspicious_stew=16
 minecraft:beetroot_soup=16
 minecraft:cake=16
+splash_milk:splash_milk_bottle=16
+splash_milk:milk_bottle=16
+splash_milk:lingering_milk_bottle=16
