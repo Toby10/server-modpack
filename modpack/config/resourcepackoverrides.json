@@ -60,7 +60,9 @@
 	"file/Immersive Celestials.zip",
 	"file/\u00A7fBetter \u00A72\u00A7lLeaves \u00A771.21.zip",
 	"file/HD_Loading_Backgrounds.zip",
-	"file/HD_Panoramas.zip"
+	"file/HD_Panoramas.zip",
+	"file/Better_Mace_Cut.zip",
+	"itemswapper:default"
   ],
   "default_overrides": {
     "force_compatible": true

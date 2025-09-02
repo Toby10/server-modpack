@@ -45,6 +45,7 @@
 - Just Mob Heads (server-side) – С мобов выпадают головы
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
+- No Shield Delay – Щит срабатывает без задержки
 - One PlayerSleep (server-side) – Скип ночи одним игроком
 - Persistent Parrots – Попугаи более привязаны к хозяину
 - Right Click Harvest – Сбор и посадка на `ПКМ` с мотыгой
@@ -113,7 +114,6 @@
 - Glowing Torchflower – Огнецвет издаёт свет
 - Just Expressions – Анимированные глаза у игроков
 - Leads – Отображает поводок на руке
-- Mace but 3D – 3д модель для булавы
 - Not Enough Animations – Анимации персонажа от 3-го лица
 - Particle Rain – Улучшенный дождь
 - Perception – Визуальные эффекты
