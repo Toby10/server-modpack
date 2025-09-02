@@ -187,7 +187,9 @@
     "somemoreblocks:smooth_soul_sandstone_stairs",
     "somemoreblocks:cut_soul_sandstone_slab",
     "somemoreblocks:smooth_soul_sandstone_slab",
-    "somemoreblocks:smooth_soul_sandstone"
+    "somemoreblocks:smooth_soul_sandstone",
+
+    "horseman:copper_horn"
 
   ],
   "blacklisted_component_data": [],
