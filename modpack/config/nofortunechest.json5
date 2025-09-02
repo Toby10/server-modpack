@@ -1,0 +1,9 @@
+{
+	"modEnabled": true,
+	"warningEnabled": true,
+	"warningMessage": "Эта кирка без шёлкового касания",
+	"warningColor": 11141120,
+	"titleEnabled": false,
+	"titleMessage": "",
+	"titleColor": 16711680
+}

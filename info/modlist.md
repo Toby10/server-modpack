@@ -45,6 +45,7 @@
 - Just Mob Heads (server-side) – С мобов выпадают головы
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
+- No Feather Trample – Невесомость не даёт затоптать грядки
 - No Shield Delay – Щит срабатывает без задержки
 - One PlayerSleep (server-side) – Скип ночи одним игроком
 - Persistent Parrots – Попугаи более привязаны к хозяину
@@ -114,6 +115,7 @@
 - Glowing Torchflower – Огнецвет издаёт свет
 - Just Expressions – Анимированные глаза у игроков
 - Leads – Отображает поводок на руке
+- Mas Effect – Анимация удара булавой
 - Not Enough Animations – Анимации персонажа от 3-го лица
 - Particle Rain – Улучшенный дождь
 - Perception – Визуальные эффекты
@@ -196,6 +198,7 @@
 - ModListMemory – Сохраняет позицию прокрутки в списке модов
 - Mod Loading Screen – Окно предварительной загрузки игры
 - ModMenu – Список модов и их настройка
+- No Fortune Chest – Предупреждение о кирке без шёлкового касания
 - Pick Up Notifier – Уведомление о подборе предмета
 - Redstone Sound Slider – Слайдер громкости редстоуна в настройках звука
 - Reese's Sodium Options – Улучшенное меню настроек Sodium
@@ -225,6 +228,7 @@
 
 #### Исправления недочётов игры
 - Allow Portal GUIs – Позволяет использовать GUI во время телепорта через портал
+- Anvil Never Too Expensive – Убирает ограничение дороговизны действий на наковальне
 - Boat Break Fix – Лодки никогда не ломаются при падении
 - Boat Item View – Позволяет использовать предметы в руке во время плавания на лодке
 - Break Free – Позволяет непрерывно ломать блок при смене инструментов
@@ -245,6 +249,7 @@
 - Leaves Be Gone – Листья деревьев быстрее исчезают
 - MapMipMapMod – Исправляет рендер карты на большом расстоянии
 - Model Gap Fix – Исправляет щели в текстурах
+- Nametag Tweaks – Прячет ники на F1
 - No Chat Reports – Убирает кнопку репорта в чате
 - No Dimension Background – Убирает фон окна загрузки при переходе между измерениями
 - No Loading Terrain – Убирает окно загрузки территории
@@ -257,6 +262,7 @@
 - Seamless – Исправляет наведение курсора на большие блоки (двери, кровати и т.д.)
 - Server Pinger Fixer – Исправляет загрузку списка серверов
 - Sneaky Screens – Продолжает удерживать `Shift` при открытии инвентаря
+- Squid No Glitch – Исправляет баги связанные со спрутами
 - Suggestion Tweaker – Улучшает подсказки при наборе команд в чате
 - Text Formatting Everywhere – Позволяет использовать [цветовые коды](https://minecraft.wiki/w/Formatting_codes) везде
 - ToastBegone – Убирает уведомления туториала и новых рецептах
@@ -305,6 +311,7 @@
 - Chunky Border – Кастомные границы мира
 - Dimensional Inventories – Раздельный инвентарь между измерениями
 - Easy Authentication Mod – Авторизация игроков
+- Fast Backups – Бэкапы мира на основе Git
 - Ledger – Журналирование
 - LuckPerms – Управление правами игроков
 - Memory Check – Проверка ОЗУ сервера
