@@ -145,6 +145,7 @@
 - Litematica – Строительство по схемам (доступ через `Esc`)
 - Litemoretica (server-side) – Расширение для Litematica
 - Music Notification – Плеер для музыки (через главное меню или `Esc`)
+- Nether Coords – Команда `/portal` для расчёта координат портала в ад
 - OffersHUD – Отображение сделок жителя при наведении на него
 - PasswordManager for AuthMe – Автозаполнение пароля при входе на сервер
 - Redstone Helper – Отображение тех. информации для редстоуна (подключается в ресурс-паках)
