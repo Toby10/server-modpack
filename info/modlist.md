@@ -346,8 +346,10 @@
 - Polymer – Создание server-side контента
 - Polytone – Кастомизация цветов через ресурспаки
 - Resource Pack Overrides – Предустановленный порядок ресурспаков
+- Server Waypoint – Синхронизация отметок на карте с сервером
 - Translucency Fix – Добавляет прозрачность в GUI
 - Vistas – Смена панорам в главном меню
+- Xaero's Minimap – Поддержка отметок на карте
 - Almanac (server-side)
 - CoroUtil
 - ForgeConfigAPIPort
