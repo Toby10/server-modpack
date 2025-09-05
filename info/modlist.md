@@ -14,6 +14,7 @@
 - Immersive Melodies – Музыкальные инструменты
 - Metal Bundles – Вариации мешков из 1.21.2
 - Nature's Compass – Компасс, указывающий на биомы
+- Nether Additions – Вариации базальта и адская рыбалка
 - Personal Disc Player – Аудиоплеер для музыкальных дисков
 - Restart Detector (server-side) – Редстоун блок, срабатывающий на перезапуск сервера
 - Sawmill – Лесопилка для быстрого крафта предметов из дерева
@@ -27,6 +28,7 @@
 - Allay, behave ! – Взаимодействие с Тихоней
 - AudioPlayer (server-side) – Загрузка кастомной музыки на диски
 - Axes Are Weapons – Топор тоже считается оружием
+- Better Nether Map – Карта в аду отрисовывается на высоте игрока
 - Better Tridents – Трезубец теперь полезен и проще добывается
 - ClickThrough Plus – Сундуки можно открывать сквозь таблички/рамки
 - Companion – Питомцы лучше следуют за игроком
@@ -46,9 +48,9 @@
 - Kaffee's Dual Ride – На лошади можно ездить вдвоём
 - Llama Steeds – Ламы собираются в караван
 - No Feather Trample – Невесомость не даёт затоптать грядки
-- No Shield Delay – Щит срабатывает без задержки
 - One PlayerSleep (server-side) – Скип ночи одним игроком
 - Persistent Parrots – Попугаи более привязаны к хозяину
+- Piglin-Free Portals – Свинозомби не спавнятся в порталах
 - Right Click Harvest – Сбор и посадка на `ПКМ` с мотыгой
 - Self-Care Hive – Пчёлы со временем лечат себя и размножаются
 - Smarter Farmers – Жители умнее сажают растения
@@ -74,6 +76,7 @@
 - Dungeons and Taverns (server-side) – Генерация похожих на ванилу структур
 - Dungeons and Taverns Addons (server-side) – Доп. строения
 - Enderscape – Новая генерация Эндер мира
+- Hearths – 
 - Improved Village Placement – Деревни не спавнятся в воздухе
 - No Void Structures – Исправляет висящие в воздухе постройки
 - Terralith (server-side) – Новые биомы из ванильных блоков
@@ -97,6 +100,7 @@
 - SneakyNameTag – Прячет ник при зажатом `Shift`
 - Voice Messages – Голосовые сообщения в чате
 - What Are They Up To – Показывает, когда другой игрок открывает меню
+- Yeet – Бросить предмет дальше, удерживая `Q`
 
 
 #### Графика: текстуры, свет и т.д.
@@ -117,6 +121,7 @@
 - Leads – Отображает поводок на руке
 - Mas Effect – Анимация удара булавой
 - Not Enough Animations – Анимации персонажа от 3-го лица
+- Nyf's Spiders – Пауки реалистично ползают по стенам
 - Particle Rain – Улучшенный дождь
 - Perception – Визуальные эффекты
 - Real Arrow Tip – Отображает стрелы с эффектами
@@ -130,6 +135,7 @@
 #### Вспомогательные инструменты
 - Armor Stand Poses (server-side) – Смена позы стойки для брони на `ПКМ`
 - Armor Statues – Тонкая настройка стойки для брони на `Shift + ПКМ`
+- Awesome Farmer – Аккуратный сбор урожая на 
 - Axiom (server-side) – Современный редактор мира
 - Block Meter – Линейка на `B`
 - Chat Calc – Калькулятор в чате при вводе "="
@@ -165,6 +171,7 @@
 
 
 #### Интерфейс, UX/UI дизайн
+- O123456789 – Меняет вид счётчиков в инвентаре
 - Better Advancements – Удобное окно достижений
 - BetterCompatibilityChecker – Проверка совместимости модпака с сервером
 - BetterF1 – Доп. режим на F1
@@ -230,6 +237,7 @@
 #### Исправления недочётов игры
 - Allow Portal GUIs – Позволяет использовать GUI во время телепорта через портал
 - Anvil Never Too Expensive – Убирает ограничение дороговизны действий на наковальне
+- Better Walls – Соединяет заборы, стены и стеклянные панели между собой
 - Boat Break Fix – Лодки никогда не ломаются при падении
 - Boat Item View – Позволяет использовать предметы в руке во время плавания на лодке
 - Break Free – Позволяет непрерывно ломать блок при смене инструментов
@@ -279,7 +287,6 @@
 - Better Beds – Ускоряет рендер кроватей
 - Clumps – Частицы опыта собираются в кучи
 - Concurrent Chunk Management Engine (C2ME) – Работа с чанками
-- Consumable Optimizer – Убирает лаги во время еды
 - DEUF Refabricated – Исправляет работу с UUID
 - Dynamic FPS – Уменьшение потребления ресурсов в фоне
 - Enhanced Block Entities – Оптимизация рендера контейнеров
@@ -297,6 +304,7 @@
 - ModernFix – Разные улучшения производительности
 - More Culling – Дополнение к Entity Culling
 - Noisium – Ускорение генерации мира
+- Redirected – Исправляет работу с Enum, предотвращая дублирование
 - Sodium – Базовая оптимизация графики
 - ThreadTweak – Исправляет работу с многопоточностью
 - TT20 (server-side) – Делает лаги сервера незаметными
@@ -343,6 +351,7 @@
 - Melody – Смена фоновой музыки
 - Mods Command – Комманда /mods для отображения списка модов
 - OptiGUI – Поддержка текстурпаков на интерфейс (Colorful Containers)
+- Patched – Позволяет датапакам редактировать файлы частично вместо полной их замены
 - Polymer – Создание server-side контента
 - Polytone – Кастомизация цветов через ресурспаки
 - Resource Pack Overrides – Предустановленный порядок ресурспаков
@@ -386,3 +395,17 @@
 - Yet Another Config Lib
 - YUNG's API (server-side)
 - Server Translations API
+
+,
+          "1": {
+            "relation": "MATCH",
+            "value": "com.tkisor.memorysweep.fabric.memorysweep"
+          },
+          "2": {
+            "relation": "MATCH",
+            "value": "toni.chunkactivitytracker.ChunkActivityTracker"
+          },
+          "3": {
+            "relation": "MATCH",
+            "value": "toni.chunkactivitytracker.foundation.data.ChunkActivityTrackerDatagen"
+          }
