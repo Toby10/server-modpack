@@ -1,0 +1,5 @@
+{
+  "normalCooldownTicks": 0,
+  "throwableCooldownTicks": 6,
+  "syncPotionCooldowns": false
+}
