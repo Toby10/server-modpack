@@ -6,9 +6,6 @@ net.minecraft.class_433 {
 net.kosmo.music.impl.gui.JukeboxScreen {
 }
 
-net.minecraft.class_408 {
-}
-
 net.minecraft.class_442 {
 }
 
@@ -16,5 +13,11 @@ io.wispforest.accessories.client.gui.AccessoriesScreen {
 }
 
 net.minecraft.class_491 {
+}
+
+net.minecraft.class_408 {
+}
+
+net.minecraft.class_423 {
 }
 
