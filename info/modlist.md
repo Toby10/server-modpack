@@ -37,6 +37,8 @@
 - Crawl – Ползти на `Ctrl`
 - Crops Love Rain – Ускоренный рост растений под дождём
 - Depu (server-side) – Эндермены не подбирают блоки
+- Drop Spread 2 – При смерти предметы падают одной кучей
+- Electric Mace – Позволяет зачаровать Булаву на Громовержец
 - Elytra Trims – Кастомизация элитр (крыльев)
 - Forgiving Void (server-side) – При падении в пропасть иногда можно выжить
 - Horseman – Улучшения езды на лошади и др. ездовых животных
@@ -361,6 +363,7 @@
 - Vistas – Смена панорам в главном меню
 - Xaero's Minimap – Поддержка отметок на карте
 - Almanac (server-side)
+- Anvian's Lib
 - CoroUtil
 - ForgeConfigAPIPort
 - Iceberg
