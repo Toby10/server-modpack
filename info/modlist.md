@@ -127,7 +127,7 @@
 - Fresh Animations – Переработка анимаций мобов
 - Fluid Void Fading – Жидкости на краю мира имеют плавный градиент
 - Glowing Torchflower – Огнецвет издаёт свет
-- Just Expressions – Анимированные глаза у игроков ([как настроить][https://github.com/IthanMendoza/Fresh-Moves/wiki])
+- Just Expressions – Анимированные глаза у игроков ([как настроить](https://github.com/IthanMendoza/Fresh-Moves/wiki))
 - LambDynamicLights - Динамический свет без шейдеров
 - Make Bubbles Pop – Пузырьки воздуха лопаются на поверхности воды
 - Mas Effect – Анимация удара булавой
