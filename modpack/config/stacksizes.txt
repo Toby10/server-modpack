@@ -29,3 +29,4 @@ nether_additions:lithid_soup=16
 minecraft:cake=16
 enderscape:chorus_cake_roll=16
 minecraft:enchanted_golden_apple=16
+minecraft:saddle=64

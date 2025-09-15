@@ -1,0 +1,1 @@
+8 : '{count: 1, components: {"map_atlases:empty_maps": {vanilla: 9}, "map_atlases:map_collection": {vanilla: 0}}, id: "map_atlases:atlas"}'
