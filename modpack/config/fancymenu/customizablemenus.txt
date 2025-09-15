@@ -21,3 +21,6 @@ net.minecraft.class_408 {
 net.minecraft.class_423 {
 }
 
+net.minecraft.class_466 {
+}
+
